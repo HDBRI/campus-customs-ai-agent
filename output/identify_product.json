@@ -1,0 +1,272 @@
+[
+  {
+    "image_path": "data/test_images/image_01_true.jpeg",
+    "product_present": true,
+    "product_id": "yale-dad-t-shirt",
+    "product_title": "Heather Grey Yale Dad T-Shirt",
+    "confidence": 0.99,
+    "alternatives": [],
+    "evidence": [
+      "The garment is a heather-grey short-sleeve T-shirt.",
+      "It visibly reads “YALE” with “UNIVERSITY” and “DAD” beneath it.",
+      "The navy collegiate lettering and horizontal line layout match Candidate 1 exactly.",
+      "It is not a crewneck, hoodie, or any of the other Yale designs shown."
+    ],
+    "reasoning": "The query garment matches Candidate 1 in garment type, color, text, and graphic layout.",
+    "candidates_checked": [
+      {
+        "product_id": "yale-dad-t-shirt",
+        "title": "Heather Grey Yale Dad T-Shirt",
+        "retrieval_score": 38.6
+      },
+      {
+        "product_id": "yale-dad-crewneck",
+        "title": "Heather Grey Yale Dad Crewneck",
+        "retrieval_score": 32.97
+      },
+      {
+        "product_id": "yale-dad-hoodie",
+        "title": "Navy Yale Dad Hoodie",
+        "retrieval_score": 26.66
+      },
+      {
+        "product_id": "yale-mom-crewneck",
+        "title": "Heather Grey Yale Mom Crewneck",
+        "retrieval_score": 19.53
+      },
+      {
+        "product_id": "yale-cousin-crewneck",
+        "title": "Heather Grey Yale Cousin Crewneck",
+        "retrieval_score": 19.34
+      },
+      {
+        "product_id": "2025-yale-vs-harvard-t-shirt",
+        "title": "2025 Yale vs. Harvard The Game T-Shirt",
+        "retrieval_score": 17.07
+      },
+      {
+        "product_id": "yale-grandpa-crewneck",
+        "title": "Heather Grey Yale Grandpa Crewneck",
+        "retrieval_score": 16.78
+      },
+      {
+        "product_id": "boola-boola-t-shirt",
+        "title": "Navy Boola Boola T-Shirt",
+        "retrieval_score": 15.98
+      },
+      {
+        "product_id": "t-felt-y-heavyweight",
+        "title": "Cream Yale Y Heavyweight T-Shirt",
+        "retrieval_score": 15.43
+      },
+      {
+        "product_id": "tri-blend-sports-football-t-shirt",
+        "title": "Heather Grey Yale Football T-Shirt",
+        "retrieval_score": 15.13
+      }
+    ],
+    "error": null
+  },
+  {
+    "image_path": "data/test_images/image_02_false.jpeg",
+    "product_present": false,
+    "product_id": null,
+    "product_title": null,
+    "confidence": 0.99,
+    "alternatives": [],
+    "evidence": [
+      "The visible garment is a light/medium gray hoodie with the word “ESSENTIALS” in black across the center chest.",
+      "All candidate hoodies have Yale-specific text or graphics, such as YALE, sports names, a bulldog, stripes, or a large Yale wordmark.",
+      "The query hoodie does not show any Yale text, candidate graphics, or matching navy/charcoal design."
+    ],
+    "reasoning": "The garment type is a hoodie, but its color and prominent chest branding (“ESSENTIALS”) do not match any candidate product design.",
+    "candidates_checked": [
+      {
+        "product_id": "squash-left-chest-hoodie",
+        "title": "Navy Yale Squash Hoodie",
+        "retrieval_score": 24.34
+      },
+      {
+        "product_id": "crew-left-chest-hoodie",
+        "title": "Navy Yale Crew Hoodie",
+        "retrieval_score": 24.02
+      },
+      {
+        "product_id": "district-vit-hoodie-vintage-bulldog",
+        "title": "Charcoal Yale Bulldog Hoodie",
+        "retrieval_score": 11.83
+      },
+      {
+        "product_id": "champion-reverse-weave-hoodie-1",
+        "title": "Navy Yale Champion Reverse Weave Hoodie",
+        "retrieval_score": 10.42
+      },
+      {
+        "product_id": "hype-and-vice-yale-university-offside-crewneck",
+        "title": "Navy Yale Offside Crewneck",
+        "retrieval_score": 10.21
+      },
+      {
+        "product_id": "yale-sports-hoodie-swimming",
+        "title": "Grey Yale Swimming Hoodie",
+        "retrieval_score": 10.13
+      },
+      {
+        "product_id": "yale-sports-hoodie-hockey",
+        "title": "Heather Grey Yale Hockey Hoodie",
+        "retrieval_score": 9.75
+      },
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "title": "Navy Yale Big-Letter Hoodie",
+        "retrieval_score": 9.5
+      },
+      {
+        "product_id": "yale-sports-hoodie-diving",
+        "title": "Heather Grey Yale Diving Hoodie",
+        "retrieval_score": 9.42
+      },
+      {
+        "product_id": "yale-aunt-hoodie",
+        "title": "Navy Yale Aunt Hoodie",
+        "retrieval_score": 9.31
+      }
+    ],
+    "error": null
+  },
+  {
+    "image_path": "data/test_images/image_03_true.jpeg",
+    "product_present": true,
+    "product_id": "dry-zone-long-sleeve",
+    "product_title": "Navy Yale Bulldogs Long-Sleeve Shirt",
+    "confidence": 0.98,
+    "alternatives": [],
+    "evidence": [
+      "The garment is a navy long-sleeve shirt.",
+      "Visible white collegiate text reads “YALE” with “BULLDOGS” directly underneath.",
+      "The filled block YALE/BULLDOGS layout matches Candidate 1; no Under Armour logo, outlined lettering, or diagonal stripe pattern is visible."
+    ],
+    "reasoning": "The shirt's color, long-sleeve cut, and clearly visible YALE BULLDOGS wordmark correspond directly to the Navy Yale Bulldogs Long-Sleeve Shirt.",
+    "candidates_checked": [
+      {
+        "product_id": "dry-zone-long-sleeve",
+        "title": "Navy Yale Bulldogs Long-Sleeve Shirt",
+        "retrieval_score": 17.42
+      },
+      {
+        "product_id": "ua-mens-tech-l-s-2-0",
+        "title": "Navy Yale Bulldogs Under Armour Tech Long-Sleeve Shirt",
+        "retrieval_score": 15.12
+      },
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "title": "Navy Yale Big-Letter Hoodie",
+        "retrieval_score": 11.42
+      },
+      {
+        "product_id": "t-felt-y-heavyweight",
+        "title": "Cream Yale Y Heavyweight T-Shirt",
+        "retrieval_score": 10.92
+      },
+      {
+        "product_id": "yale-grandpa-hoodie",
+        "title": "Navy Yale Grandpa Hoodie",
+        "retrieval_score": 10.89
+      },
+      {
+        "product_id": "school-of-nursing-crest-t-shirt",
+        "title": "Navy Yale School of Nursing Crest T-Shirt",
+        "retrieval_score": 10.78
+      },
+      {
+        "product_id": "yale-grandpa-crewneck",
+        "title": "Heather Grey Yale Grandpa Crewneck",
+        "retrieval_score": 10.33
+      },
+      {
+        "product_id": "boola-boola-t-shirt",
+        "title": "Navy Boola Boola T-Shirt",
+        "retrieval_score": 10.25
+      },
+      {
+        "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+        "title": "Heather Charcoal Vintage Bulldog Yale Crewneck",
+        "retrieval_score": 9.59
+      },
+      {
+        "product_id": "hype-and-vice-yale-university-offside-crewneck",
+        "title": "Navy Yale Offside Crewneck",
+        "retrieval_score": 9.56
+      }
+    ],
+    "error": null
+  },
+  {
+    "image_path": "data/test_images/image_04_false.jpeg",
+    "product_present": false,
+    "product_id": null,
+    "product_title": null,
+    "confidence": 0.99,
+    "alternatives": [],
+    "evidence": [
+      "The garment is a navy short-sleeve T-shirt with a small chest wordmark that appears to read “Balenciaga.”",
+      "Candidate 1 has a white two-line “YALE FOOTBALL” mark, which is not visible on the query shirt.",
+      "The other navy candidates have large Yale or school-specific graphics, and the query shirt has none of those designs.",
+      "The grey, hoodie, fleece, quarter-zip, and crewneck candidates also do not match the garment type and appearance."
+    ],
+    "reasoning": "The visible chest branding is a different fashion-brand wordmark rather than any of the listed Campus Customs designs. Generic navy color and short-sleeve cut are insufficient for a match.",
+    "candidates_checked": [
+      {
+        "product_id": "football-left-chest-t-shirt",
+        "title": "Navy Yale Football T-Shirt",
+        "retrieval_score": 19.74
+      },
+      {
+        "product_id": "morse-logo-t-shirt",
+        "title": "Heather Grey Morse College T-Shirt",
+        "retrieval_score": 18.68
+      },
+      {
+        "product_id": "yale-aunt-hoodie",
+        "title": "Navy Yale Aunt Hoodie",
+        "retrieval_score": 18.3
+      },
+      {
+        "product_id": "2025-yale-vs-harvard-t-shirt",
+        "title": "2025 Yale vs. Harvard The Game T-Shirt",
+        "retrieval_score": 17.37
+      },
+      {
+        "product_id": "champion-reverse-weave-crewneck",
+        "title": "Heather Grey Yale Reverse Weave Crewneck",
+        "retrieval_score": 16.29
+      },
+      {
+        "product_id": "berkeley-1-4-zip",
+        "title": "Heather Grey Berkeley Quarter-Zip",
+        "retrieval_score": 16.13
+      },
+      {
+        "product_id": "divinity-school-fleece-sweater",
+        "title": "Navy Yale Divinity School Full-Zip Fleece",
+        "retrieval_score": 15.96
+      },
+      {
+        "product_id": "grace-hopper-logo-t-shirt",
+        "title": "Heather Grey Grace Hopper College T-Shirt",
+        "retrieval_score": 15.79
+      },
+      {
+        "product_id": "school-of-management-crest-t-shirt",
+        "title": "Navy Yale School of Management Crest T-Shirt",
+        "retrieval_score": 15.37
+      },
+      {
+        "product_id": "hype-and-vice-yale-university-offside-crewneck",
+        "title": "Navy Yale Offside Crewneck",
+        "retrieval_score": 14.84
+      }
+    ],
+    "error": null
+  }
+]

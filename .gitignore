@@ -1,0 +1,32 @@
+# ---- secrets: never commit ----
+.env
+.env.*
+!.env.example
+
+# ---- course data: not redistributed (download from the course and place in data/) ----
+*.db
+*.sqlite
+*.sqlite3
+data/products/
+data/test_images/
+data/videos/
+frames/
+data/*.zip
+data.zip
+
+# ---- dependencies & build output ----
+node_modules/
+dist/
+dist-ssr/
+.vite/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- editor / OS / logs ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

@@ -1,0 +1,3681 @@
+{
+  "model": "gpt-5.6-luna",
+  "entries": [
+    {
+      "title": "2025 Yale vs. Harvard The Game T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a large centered full-front collegiate football-style graphic. The design features arched “2025” above bold “THE GAME,” red Harvard and white Yale football helmets facing each other, horizontal red/white and blue/white stripes, and small Yale/Harvard-related marks and fine text beneath.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "white",
+        "black",
+        "red",
+        "navy blue"
+      ],
+      "printed_text": [
+        "2025",
+        "THE GAME",
+        "H",
+        "Y"
+      ],
+      "graphics": [
+        "Harvard football helmet",
+        "Yale football helmet",
+        "Yale shield/crest",
+        "horizontal athletic stripes",
+        "small Yale and Harvard marks"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University and Harvard University",
+      "sport": "football",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "bold",
+        "rivalry"
+      ],
+      "product_id": "2025-yale-vs-harvard-t-shirt",
+      "image_path": "data/products/2025-yale-vs-harvard-t-shirt.jpg",
+      "search_text": "2025 Yale vs. Harvard The Game T-Shirt | Heather grey short-sleeve T-shirt with a large centered full-front collegiate football-style graphic. The design features arched “2025” above bold “THE GAME,” red Harvard and white Yale football helmets facing each other, horizontal red/white and blue/white stripes, and small Yale/Harvard-related marks and fine text beneath. | t-shirt | heather grey | white | black | red | navy blue | 2025 | THE GAME | H | Y | Harvard football helmet | Yale football helmet | Yale shield/crest | horizontal athletic stripes | small Yale and Harvard marks | full-front | screen print | Yale University and Harvard University | football | athletic | collegiate | bold | rivalry",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Baseball Crewneck",
+      "description": "A solid navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. White text reading “YALE” above “BASEBALL” is printed on the upper left chest area (wearer’s left); a small white neck label is also visible.",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL",
+        "PORT & COMPANY"
+      ],
+      "graphics": [],
+      "graphic_placement": "left-chest",
+      "print_style": "clean white screen print",
+      "affiliation": null,
+      "sport": "baseball",
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "baseball-left-chest-crewneck",
+      "image_path": "data/products/baseball-left-chest-crewneck.jpg",
+      "search_text": "Navy Yale Baseball Crewneck | A solid navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. White text reading “YALE” above “BASEBALL” is printed on the upper left chest area (wearer’s left); a small white neck label is also visible. | crewneck | navy | white | YALE | BASEBALL | PORT & COMPANY | left-chest | clean white screen print | baseball | Port & Company | athletic | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Big-Letter Hoodie",
+      "description": "A dark navy pullover hoodie with a hood, long sleeves, and a front kangaroo pocket. Large white block letters spelling “YALE” are centered across the upper front/chest.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "large block lettering"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen-printed lettering",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "classic",
+        "collegiate",
+        "minimal",
+        "bold"
+      ],
+      "product_id": "basic-hoodie-big-yale",
+      "image_path": "data/products/basic-hoodie-big-yale.jpg",
+      "search_text": "Navy Yale Big-Letter Hoodie | A dark navy pullover hoodie with a hood, long sleeves, and a front kangaroo pocket. Large white block letters spelling “YALE” are centered across the upper front/chest. | hoodie | navy | white | YALE | large block lettering | full-front | screen-printed lettering | classic | collegiate | minimal | bold",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Benjamin Franklin Quarter-Zip",
+      "description": "Heather grey long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs, and ribbed hem. A small multicolor Benjamin Franklin College shield crest is embroidered or printed on the left chest, with the college name beneath it; a small dark neck label reads “sport”.",
+      "garment_type": "quarter-zip",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "blue",
+        "red",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "BENJAMIN FRANKLIN",
+        "COLLEGE",
+        "sport"
+      ],
+      "graphics": [
+        "Benjamin Franklin College shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "small embroidered or printed crest and text",
+      "affiliation": "Benjamin Franklin College",
+      "sport": null,
+      "family_role": null,
+      "brand": "Sport-Tek",
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "athletic"
+      ],
+      "product_id": "benjamin-franklin-1-4-zip",
+      "image_path": "data/products/benjamin-franklin-1-4-zip.jpg",
+      "search_text": "Heather Grey Benjamin Franklin Quarter-Zip | Heather grey long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs, and ribbed hem. A small multicolor Benjamin Franklin College shield crest is embroidered or printed on the left chest, with the college name beneath it; a small dark neck label reads “sport”. | quarter-zip | heather grey | blue | red | white | black | BENJAMIN FRANKLIN | COLLEGE | sport | Benjamin Franklin College shield crest | left-chest | small embroidered or printed crest and text | Benjamin Franklin College | Sport-Tek | collegiate | minimal | classic | athletic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Benjamin Franklin Fleece Jacket",
+      "description": "Heather grey full-zip fleece jacket with a standing collar, grey zipper and pocket trim, and long sleeves. The upper left chest features a small quartered red-and-blue crest with white symbols and the printed text “BENJAMIN FRANKLIN” beneath it; a small black neck label also appears to read “PORT AUTHORITY.”",
+      "garment_type": "fleece-jacket",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark grey",
+        "red",
+        "blue",
+        "white"
+      ],
+      "printed_text": [
+        "BENJAMIN FRANKLIN",
+        "PORT AUTHORITY"
+      ],
+      "graphics": [
+        "quartered red-and-blue crest with white symbols"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered crest with printed text",
+      "affiliation": "Benjamin Franklin College",
+      "sport": null,
+      "family_role": null,
+      "brand": "Port Authority",
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "athletic",
+        "layering"
+      ],
+      "product_id": "benjamin-franklin-fleece-jacket",
+      "image_path": "data/products/benjamin-franklin-fleece-jacket.jpg",
+      "search_text": "Heather Grey Benjamin Franklin Fleece Jacket | Heather grey full-zip fleece jacket with a standing collar, grey zipper and pocket trim, and long sleeves. The upper left chest features a small quartered red-and-blue crest with white symbols and the printed text “BENJAMIN FRANKLIN” beneath it; a small black neck label also appears to read “PORT AUTHORITY.” | fleece-jacket | heather grey | dark grey | red | blue | white | BENJAMIN FRANKLIN | PORT AUTHORITY | quartered red-and-blue crest with white symbols | left-chest | embroidered crest with printed text | Benjamin Franklin College | Port Authority | minimal | collegiate | athletic | layering",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Benjamin Franklin College Crest T-Shirt",
+      "description": "A light heather grey short-sleeve crew-neck t-shirt with a large centered crest on the chest. The shield is quartered in blue and red, with white lightning-bolt diagonals in the blue quarters and white fleurs-de-lis in the red quarters. Below it, 'BENJAMIN FRANKLIN COLLEGE' is printed in black serif capitals on two lines.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "blue",
+        "red",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "BENJAMIN FRANKLIN",
+        "COLLEGE"
+      ],
+      "graphics": [
+        "Benjamin Franklin College shield crest",
+        "lightning bolts",
+        "fleurs-de-lis"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Benjamin Franklin College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "collegiate",
+        "heraldic",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "benjamin-franklin-t-shirt",
+      "image_path": "data/products/benjamin-franklin-t-shirt.jpg",
+      "search_text": "Heather Grey Benjamin Franklin College Crest T-Shirt | A light heather grey short-sleeve crew-neck t-shirt with a large centered crest on the chest. The shield is quartered in blue and red, with white lightning-bolt diagonals in the blue quarters and white fleurs-de-lis in the red quarters. Below it, 'BENJAMIN FRANKLIN COLLEGE' is printed in black serif capitals on two lines. | t-shirt | heather grey | blue | red | white | black | BENJAMIN FRANKLIN | COLLEGE | Benjamin Franklin College shield crest | lightning bolts | fleurs-de-lis | full-front | screen print | Benjamin Franklin College | collegiate | heraldic | classic | minimal",
+      "source": "manual"
+    },
+    {
+      "title": "Heather Grey Berkeley Quarter-Zip",
+      "description": "Heather grey long-sleeve quarter-zip pullover with a stand collar and short front zipper. A red shield crest with white heraldic details is embroidered or appliquéd on the upper left chest, with the word “BERKELEY” printed directly beneath it.",
+      "garment_type": "quarter-zip",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "red",
+        "white"
+      ],
+      "printed_text": [
+        "BERKELEY"
+      ],
+      "graphics": [
+        "red shield crest with white heraldic details"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered crest or appliqué",
+      "affiliation": "Berkeley",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "heritage"
+      ],
+      "product_id": "berkeley-1-4-zip",
+      "image_path": "data/products/berkeley-1-4-zip.jpg",
+      "search_text": "Heather Grey Berkeley Quarter-Zip | Heather grey long-sleeve quarter-zip pullover with a stand collar and short front zipper. A red shield crest with white heraldic details is embroidered or appliquéd on the upper left chest, with the word “BERKELEY” printed directly beneath it. | quarter-zip | heather grey | red | white | BERKELEY | red shield crest with white heraldic details | left-chest | embroidered crest or appliqué | Berkeley | collegiate | minimal | classic | heritage",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Berkeley Sweater Fleece Jacket",
+      "description": "A light heather grey sweater-knit fleece full-zip jacket with a stand-up collar, a dark grey zipper and zipper tape, dark grey trim along the hem and cuffs, and zippered hand pockets. A small red shield with a white chevron and white crosses sits on the left chest, above 'BERKELEY' in small dark serif capitals.",
+      "garment_type": "fleece-jacket",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark grey",
+        "red",
+        "white"
+      ],
+      "printed_text": [
+        "BERKELEY"
+      ],
+      "graphics": [
+        "Berkeley College shield crest",
+        "chevron",
+        "crosses"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered crest",
+      "affiliation": "Berkeley College",
+      "sport": null,
+      "family_role": null,
+      "brand": "Port Authority",
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "layering",
+        "classic"
+      ],
+      "product_id": "berkeley-sweater-fleece-jacket",
+      "image_path": "data/products/berkeley-sweater-fleece-jacket.jpg",
+      "search_text": "Heather Grey Berkeley Sweater Fleece Jacket | A light heather grey sweater-knit fleece full-zip jacket with a stand-up collar, a dark grey zipper and zipper tape, dark grey trim along the hem and cuffs, and zippered hand pockets. A small red shield with a white chevron and white crosses sits on the left chest, above 'BERKELEY' in small dark serif capitals. | fleece-jacket | heather grey | dark grey | red | white | BERKELEY | Berkeley College shield crest | chevron | crosses | left-chest | embroidered crest | Berkeley College | Port Authority | collegiate | minimal | layering | classic",
+      "source": "manual"
+    },
+    {
+      "title": "Coral Yale T-Shirt",
+      "description": "A coral/salmon short-sleeve T-shirt with a large white arched block-letter “YALE” graphic centered across the upper front. A very faint small mark is visible near the lower right hem, but it is not legible enough to transcribe.",
+      "garment_type": "t-shirt",
+      "primary_color": "coral",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "arched block-letter Yale wordmark"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "casual"
+      ],
+      "product_id": "big-yale-tri-blend-t-shirt",
+      "image_path": "data/products/big-yale-tri-blend-t-shirt.jpg",
+      "search_text": "Coral Yale T-Shirt | A coral/salmon short-sleeve T-shirt with a large white arched block-letter “YALE” graphic centered across the upper front. A very faint small mark is visible near the lower right hem, but it is not legible enough to transcribe. | t-shirt | coral | white | YALE | arched block-letter Yale wordmark | full-front | screen print | Yale University | collegiate | minimal | casual",
+      "source": "model"
+    },
+    {
+      "title": "Navy Boola Boola T-Shirt",
+      "description": "A navy short-sleeve T-shirt with a large distressed white and light-blue outlined bubble-letter graphic centered on the front reading “BOOLA BOOLA.” A small white neck print is visible inside the collar, reading “YALE CUSTOMS” with additional tiny text beneath.",
+      "garment_type": "t-shirt",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "light blue"
+      ],
+      "printed_text": [
+        "BOOLA BOOLA",
+        "YALE CUSTOMS",
+        "YALE UNIVERSITY OFFICIAL LICENSED PRODUCT"
+      ],
+      "graphics": [
+        "bubble-letter Boola Boola graphic"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "distressed screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": "Yale Customs",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "vintage",
+        "bold",
+        "graphic",
+        "distressed"
+      ],
+      "product_id": "boola-boola-t-shirt",
+      "image_path": "data/products/boola-boola-t-shirt.jpg",
+      "search_text": "Navy Boola Boola T-Shirt | A navy short-sleeve T-shirt with a large distressed white and light-blue outlined bubble-letter graphic centered on the front reading “BOOLA BOOLA.” A small white neck print is visible inside the collar, reading “YALE CUSTOMS” with additional tiny text beneath. | t-shirt | navy | white | light blue | BOOLA BOOLA | YALE CUSTOMS | YALE UNIVERSITY OFFICIAL LICENSED PRODUCT | bubble-letter Boola Boola graphic | full-front | distressed screen print | Yale University | Yale Customs | vintage | bold | graphic | distressed",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Branford Quarter-Zip",
+      "description": "Heather grey long-sleeve quarter-zip pullover with a stand collar and matching grey ribbed cuffs and hem. A colorful Branford College shield crest is embroidered/appliquéd on the upper left chest, with the word “BRANFORD” directly beneath it.",
+      "garment_type": "quarter-zip",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "yellow",
+        "green",
+        "blue",
+        "white"
+      ],
+      "printed_text": [
+        "BRANFORD"
+      ],
+      "graphics": [
+        "Branford College shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered crest with embroidered text",
+      "affiliation": "Branford College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "embroidered"
+      ],
+      "product_id": "branford-1-4-zip",
+      "image_path": "data/products/branford-1-4-zip.jpg",
+      "search_text": "Heather Grey Branford Quarter-Zip | Heather grey long-sleeve quarter-zip pullover with a stand collar and matching grey ribbed cuffs and hem. A colorful Branford College shield crest is embroidered/appliquéd on the upper left chest, with the word “BRANFORD” directly beneath it. | quarter-zip | heather grey | yellow | green | blue | white | BRANFORD | Branford College shield crest | left-chest | embroidered crest with embroidered text | Branford College | collegiate | minimal | classic | embroidered",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Full-Zip Bomber Jacket",
+      "description": "Dark navy full-zip bomber-style jacket with a stand collar, rib-knit cuffs and waistband, two angled flap pockets, and a small white “YALE” wordmark on the left chest. A red interior neck label is visible, but its small text is not legible in the photo.",
+      "garment_type": "jacket",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "red",
+        "black"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "YALE wordmark"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "white embroidered or appliqué lettering",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "classic",
+        "preppy",
+        "collegiate"
+      ],
+      "product_id": "brooks-brothers-bomber-jacket-yale",
+      "image_path": "data/products/brooks-brothers-bomber-jacket-yale.jpg",
+      "search_text": "Navy Yale Full-Zip Bomber Jacket | Dark navy full-zip bomber-style jacket with a stand collar, rib-knit cuffs and waistband, two angled flap pockets, and a small white “YALE” wordmark on the left chest. A red interior neck label is visible, but its small text is not legible in the photo. | jacket | navy | white | red | black | YALE | YALE wordmark | left-chest | white embroidered or appliqué lettering | Yale University | minimal | classic | preppy | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Brooks Brothers Yale Full-Zip Hoodie",
+      "description": "A dark navy full-zip hooded sweatshirt with long sleeves, drawstrings, ribbed cuffs and hem, and two angled front pockets. White block text reading “YALE” is printed on the wearer’s left chest; a small Brooks Brothers label is visible inside the hood area.",
+      "garment_type": "full-zip",
+      "primary_color": "dark navy",
+      "secondary_colors": [
+        "white",
+        "silver"
+      ],
+      "printed_text": [
+        "YALE",
+        "BROOKS BROTHERS"
+      ],
+      "graphics": [],
+      "graphic_placement": "left-chest",
+      "print_style": "white block lettering",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": "Brooks Brothers",
+      "has_hood": true,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "classic",
+        "minimal",
+        "collegiate",
+        "casual"
+      ],
+      "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+      "image_path": "data/products/brooks-brothers-double-knit-full-zip-hoodie-yale.jpg",
+      "search_text": "Navy Brooks Brothers Yale Full-Zip Hoodie | A dark navy full-zip hooded sweatshirt with long sleeves, drawstrings, ribbed cuffs and hem, and two angled front pockets. White block text reading “YALE” is printed on the wearer’s left chest; a small Brooks Brothers label is visible inside the hood area. | full-zip | dark navy | white | silver | YALE | BROOKS BROTHERS | left-chest | white block lettering | Brooks Brothers | classic | minimal | collegiate | casual",
+      "source": "model"
+    },
+    {
+      "title": "Charcoal Yale Full-Zip Hooded Sweatshirt",
+      "description": "Charcoal grey full-zip hooded sweatshirt with a front kangaroo pocket, drawstrings, ribbed cuffs and waistband, and a small Champion logo patch on the lower sleeve. Large cream-colored “YALE” lettering with navy-blue outlines spans the upper front.",
+      "garment_type": "full-zip",
+      "primary_color": "charcoal grey",
+      "secondary_colors": [
+        "cream",
+        "navy blue",
+        "red",
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "large collegiate block lettering",
+        "Champion logo patch"
+      ],
+      "graphic_placement": "multiple",
+      "print_style": "felt appliqué or raised applique lettering with contrasting outline",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": "Champion",
+      "has_hood": true,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "athletic",
+        "classic",
+        "casual"
+      ],
+      "product_id": "champion-full-zip-hood",
+      "image_path": "data/products/champion-full-zip-hood.jpg",
+      "search_text": "Charcoal Yale Full-Zip Hooded Sweatshirt | Charcoal grey full-zip hooded sweatshirt with a front kangaroo pocket, drawstrings, ribbed cuffs and waistband, and a small Champion logo patch on the lower sleeve. Large cream-colored “YALE” lettering with navy-blue outlines spans the upper front. | full-zip | charcoal grey | cream | navy blue | red | white | YALE | large collegiate block lettering | Champion logo patch | multiple | felt appliqué or raised applique lettering with contrasting outline | Champion | collegiate | athletic | classic | casual",
+      "source": "model"
+    },
+    {
+      "title": "Heather Charcoal Yale Est. 1701 Raglan Crewneck",
+      "description": "A heather charcoal-gray raglan crewneck sweatshirt with a large white arched “YALE” graphic centered across the upper front and “EST. 1701” directly beneath it. The sweatshirt has ribbed cuffs, collar, and hem, with a small Champion logo patch on the lower sleeve at the viewer’s right; a Champion neck label is also visible inside the collar.",
+      "garment_type": "crewneck",
+      "primary_color": "heather charcoal gray",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "EST. 1701"
+      ],
+      "graphics": [
+        "large collegiate Yale wordmark",
+        "Champion logo patch"
+      ],
+      "graphic_placement": "multiple",
+      "print_style": "screen-printed collegiate lettering with a sewn brand patch",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": "Champion",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "athletic",
+        "classic",
+        "raglan",
+        "minimal"
+      ],
+      "product_id": "champion-mens-triumph-raglan-crew",
+      "image_path": "data/products/champion-mens-triumph-raglan-crew.jpg",
+      "search_text": "Heather Charcoal Yale Est. 1701 Raglan Crewneck | A heather charcoal-gray raglan crewneck sweatshirt with a large white arched “YALE” graphic centered across the upper front and “EST. 1701” directly beneath it. The sweatshirt has ribbed cuffs, collar, and hem, with a small Champion logo patch on the lower sleeve at the viewer’s right; a Champion neck label is also visible inside the collar. | crewneck | heather charcoal gray | white | YALE | EST. 1701 | large collegiate Yale wordmark | Champion logo patch | multiple | screen-printed collegiate lettering with a sewn brand patch | Yale University | Champion | collegiate | athletic | classic | raglan | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Reverse Weave Crewneck",
+      "description": "A heather grey long-sleeve crewneck sweatshirt with large arched dark blue “YALE” lettering across the upper front. A small Champion logo patch is visible near the lower outer sleeve cuff on the viewer’s right; the Champion neck label is also visible.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark blue",
+        "red"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "large arched YALE wordmark",
+        "Champion logo patch"
+      ],
+      "graphic_placement": "multiple",
+      "print_style": "screen print; sewn brand patch",
+      "affiliation": "Yale",
+      "sport": null,
+      "family_role": null,
+      "brand": "Champion",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "classic",
+        "collegiate",
+        "minimal",
+        "athletic"
+      ],
+      "product_id": "champion-reverse-weave-crewneck",
+      "image_path": "data/products/champion-reverse-weave-crewneck.jpg",
+      "search_text": "Heather Grey Yale Reverse Weave Crewneck | A heather grey long-sleeve crewneck sweatshirt with large arched dark blue “YALE” lettering across the upper front. A small Champion logo patch is visible near the lower outer sleeve cuff on the viewer’s right; the Champion neck label is also visible. | crewneck | heather grey | dark blue | red | YALE | large arched YALE wordmark | Champion logo patch | multiple | screen print; sewn brand patch | Yale | Champion | classic | collegiate | minimal | athletic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Champion Reverse Weave Hoodie",
+      "description": "A navy pullover hoodie with long sleeves, a drawstring hood, ribbed cuffs and hem, and a large white block-letter \"YALE\" graphic across the upper front. It has a front kangaroo pocket and a small Champion logo patch near the lower edge of the right sleeve cuff; a Champion neck label is visible inside the hood.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "red",
+        "blue"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "large block-letter YALE wordmark",
+        "Champion logo on sleeve cuff",
+        "Champion neck label"
+      ],
+      "graphic_placement": "multiple",
+      "print_style": "screen-printed block lettering with an embroidered or sewn Champion sleeve logo",
+      "affiliation": "Yale",
+      "sport": null,
+      "family_role": null,
+      "brand": "Champion",
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "athletic",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "champion-reverse-weave-hoodie-1",
+      "image_path": "data/products/champion-reverse-weave-hoodie-1.jpg",
+      "search_text": "Navy Yale Champion Reverse Weave Hoodie | A navy pullover hoodie with long sleeves, a drawstring hood, ribbed cuffs and hem, and a large white block-letter \"YALE\" graphic across the upper front. It has a front kangaroo pocket and a small Champion logo patch near the lower edge of the right sleeve cuff; a Champion neck label is visible inside the hood. | hoodie | navy | white | red | blue | YALE | large block-letter YALE wordmark | Champion logo on sleeve cuff | Champion neck label | multiple | screen-printed block lettering with an embroidered or sewn Champion sleeve logo | Yale | Champion | collegiate | athletic | classic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Crew Hoodie",
+      "description": "A solid navy pullover hoodie with a front kangaroo pocket and matching navy drawstrings. White block lettering reading “YALE” above “CREW” is placed on the left chest; no other garment graphics are visible.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "CREW"
+      ],
+      "graphics": [],
+      "graphic_placement": "left-chest",
+      "print_style": "white block print",
+      "affiliation": null,
+      "sport": "crew",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "crew-left-chest-hoodie",
+      "image_path": "data/products/crew-left-chest-hoodie.jpg",
+      "search_text": "Navy Yale Crew Hoodie | A solid navy pullover hoodie with a front kangaroo pocket and matching navy drawstrings. White block lettering reading “YALE” above “CREW” is placed on the left chest; no other garment graphics are visible. | hoodie | navy | white | YALE | CREW | left-chest | white block print | crew | athletic | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Davenport College Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. A small black-and-white shield crest is printed on the upper left chest, with the word \"DAVENPORT\" directly beneath it; the neck label reads \"PORT & COMPANY.\"",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "black",
+        "white"
+      ],
+      "printed_text": [
+        "DAVENPORT",
+        "PORT & COMPANY"
+      ],
+      "graphics": [
+        "black-and-white shield crest with cross motifs"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "small screen print",
+      "affiliation": "Davenport College",
+      "sport": null,
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "classic"
+      ],
+      "product_id": "davenport-college-crewneck",
+      "image_path": "data/products/davenport-college-crewneck.jpg",
+      "search_text": "Heather Grey Davenport College Crewneck | Heather grey long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. A small black-and-white shield crest is printed on the upper left chest, with the word \"DAVENPORT\" directly beneath it; the neck label reads \"PORT & COMPANY.\" | crewneck | heather grey | black | white | DAVENPORT | PORT & COMPANY | black-and-white shield crest with cross motifs | left-chest | small screen print | Davenport College | Port & Company | minimal | collegiate | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Vintage Yale Shield T-Shirt",
+      "description": "A short-sleeve heather grey T-shirt with a large navy Yale shield graphic centered on the front. The shield has a white outline and a large white letter “Y,” with a small “TM” mark visible at the lower right of the shield.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "Y",
+        "TM"
+      ],
+      "graphics": [
+        "Yale shield"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "vintage",
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "district-tri-blend-t-shirt-vintage-shield",
+      "image_path": "data/products/district-tri-blend-t-shirt-vintage-shield.jpg",
+      "search_text": "Heather Grey Vintage Yale Shield T-Shirt | A short-sleeve heather grey T-shirt with a large navy Yale shield graphic centered on the front. The shield has a white outline and a large white letter “Y,” with a small “TM” mark visible at the lower right of the shield. | t-shirt | heather grey | navy | white | Y | TM | Yale shield | full-front | screen print | vintage | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Charcoal Vintage Yale Bulldog Crewneck",
+      "description": "A dark charcoal heather crewneck sweatshirt with long sleeves, ribbed collar, cuffs, and waistband. The full front features large distressed white text reading “YALE” above a white bulldog head graphic.",
+      "garment_type": "crewneck",
+      "primary_color": "dark charcoal heather",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "bulldog head"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "distressed vintage screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "vintage",
+        "athletic",
+        "collegiate",
+        "bold"
+      ],
+      "product_id": "district-vit-crewneck-vintage-bulldog",
+      "image_path": "data/products/district-vit-crewneck-vintage-bulldog.jpg",
+      "search_text": "Charcoal Vintage Yale Bulldog Crewneck | A dark charcoal heather crewneck sweatshirt with long sleeves, ribbed collar, cuffs, and waistband. The full front features large distressed white text reading “YALE” above a white bulldog head graphic. | crewneck | dark charcoal heather | white | YALE | bulldog head | full-front | distressed vintage screen print | vintage | athletic | collegiate | bold",
+      "source": "model"
+    },
+    {
+      "title": "Heather Charcoal Vintage Bulldog Yale Crewneck",
+      "description": "Heather charcoal-gray crewneck sweatshirt with a large white standing bulldog graphic centered on the front. The bulldog wears a white shirt with a dark navy “Y,” and dark navy “YALE” lettering runs vertically to the right of the bulldog.",
+      "garment_type": "crewneck",
+      "primary_color": "heather charcoal gray",
+      "secondary_colors": [
+        "white",
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "standing bulldog",
+        "large block Y on the bulldog's shirt"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "vintage",
+        "collegiate",
+        "mascot",
+        "bold"
+      ],
+      "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+      "image_path": "data/products/district-vit-crewneck-vintage-standing-bulldog.jpg",
+      "search_text": "Heather Charcoal Vintage Bulldog Yale Crewneck | Heather charcoal-gray crewneck sweatshirt with a large white standing bulldog graphic centered on the front. The bulldog wears a white shirt with a dark navy “Y,” and dark navy “YALE” lettering runs vertically to the right of the bulldog. | crewneck | heather charcoal gray | white | dark navy | YALE | standing bulldog | large block Y on the bulldog's shirt | full-front | screen print | Yale University | vintage | collegiate | mascot | bold",
+      "source": "model"
+    },
+    {
+      "title": "Charcoal Yale Bulldog Hoodie",
+      "description": "Dark heather charcoal pullover hoodie with a white full-front design. The design features the word “YALE” across the upper chest and a white bulldog illustration centered beneath it; the hoodie has a front kangaroo pocket, ribbed cuffs, and a ribbed waistband.",
+      "garment_type": "hoodie",
+      "primary_color": "dark heather charcoal",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "bulldog illustration"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "white screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "athletic",
+        "graphic",
+        "minimal"
+      ],
+      "product_id": "district-vit-hoodie-vintage-bulldog",
+      "image_path": "data/products/district-vit-hoodie-vintage-bulldog.jpg",
+      "search_text": "Charcoal Yale Bulldog Hoodie | Dark heather charcoal pullover hoodie with a white full-front design. The design features the word “YALE” across the upper chest and a white bulldog illustration centered beneath it; the hoodie has a front kangaroo pocket, ribbed cuffs, and a ribbed waistband. | hoodie | dark heather charcoal | white | YALE | bulldog illustration | full-front | white screen print | collegiate | athletic | graphic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Charcoal Yale Sailor Bulldog Hoodie",
+      "description": "A dark charcoal heather pullover hoodie with a centered white varsity-style “YALE” wordmark across the upper chest and a white illustrated bulldog wearing a sailor cap beneath it. The hoodie has a front kangaroo pocket, rib-knit cuffs and hem, and a matching charcoal hood.",
+      "garment_type": "hoodie",
+      "primary_color": "charcoal heather",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "sailor bulldog wearing a sailor cap"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": "District",
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "mascot",
+        "graphic"
+      ],
+      "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+      "image_path": "data/products/district-vit-hoodie-vintage-sailor-bulldog.jpg",
+      "search_text": "Charcoal Yale Sailor Bulldog Hoodie | A dark charcoal heather pullover hoodie with a centered white varsity-style “YALE” wordmark across the upper chest and a white illustrated bulldog wearing a sailor cap beneath it. The hoodie has a front kangaroo pocket, rib-knit cuffs and hem, and a matching charcoal hood. | hoodie | charcoal heather | white | YALE | sailor bulldog wearing a sailor cap | full-front | screen print | District | athletic | collegiate | mascot | graphic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Diving Crewneck",
+      "description": "Navy long-sleeve crewneck sweatshirt with a small white two-line design on the upper left chest reading “YALE” above “DIVING.” The sweatshirt has ribbed collar, cuffs, and hem; a small neck label is also visible inside the collar.",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "DIVING"
+      ],
+      "graphics": [],
+      "graphic_placement": "left-chest",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "diving",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "athletic",
+        "classic"
+      ],
+      "product_id": "diving-left-chest-crewneck",
+      "image_path": "data/products/diving-left-chest-crewneck.jpg",
+      "search_text": "Navy Yale Diving Crewneck | Navy long-sleeve crewneck sweatshirt with a small white two-line design on the upper left chest reading “YALE” above “DIVING.” The sweatshirt has ribbed collar, cuffs, and hem; a small neck label is also visible inside the collar. | crewneck | navy | white | YALE | DIVING | left-chest | screen print | diving | minimal | athletic | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Divinity School Full-Zip Fleece",
+      "description": "A navy heathered fleece full-zip jacket with a high stand collar and long sleeves. The left chest features white text reading “Yale DIVINITY SCHOOL” above a red-and-white shield crest.",
+      "garment_type": "full-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "red"
+      ],
+      "printed_text": [
+        "Yale DIVINITY SCHOOL"
+      ],
+      "graphics": [
+        "red-and-white shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or stitched chest decoration",
+      "affiliation": "Divinity School",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "fleece",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "divinity-school-fleece-sweater",
+      "image_path": "data/products/divinity-school-fleece-sweater.jpg",
+      "search_text": "Navy Yale Divinity School Full-Zip Fleece | A navy heathered fleece full-zip jacket with a high stand collar and long sleeves. The left chest features white text reading “Yale DIVINITY SCHOOL” above a red-and-white shield crest. | full-zip | navy | white | red | Yale DIVINITY SCHOOL | red-and-white shield crest | left-chest | embroidered or stitched chest decoration | Divinity School | academic | fleece | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Bulldogs Long-Sleeve Shirt",
+      "description": "Navy long-sleeve athletic shirt with a large white “YALE” wordmark centered across the chest and “BULLDOGS” in smaller white text directly beneath it. A small white brand mark is visible inside the back collar.",
+      "garment_type": "long-sleeve",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "BULLDOGS"
+      ],
+      "graphics": [
+        "YALE wordmark"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": "Sport-Tek",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "dry-zone-long-sleeve",
+      "image_path": "data/products/dry-zone-long-sleeve.jpg",
+      "search_text": "Navy Yale Bulldogs Long-Sleeve Shirt | Navy long-sleeve athletic shirt with a large white “YALE” wordmark centered across the chest and “BULLDOGS” in smaller white text directly beneath it. A small white brand mark is visible inside the back collar. | long-sleeve | navy | white | YALE | BULLDOGS | YALE wordmark | full-front | screen print | Sport-Tek | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Fencing Hoodie",
+      "description": "A dark navy pullover hoodie with a front kangaroo pocket, drawstring hood, and long sleeves. White text reading “YALE” above “FENCING” is positioned on the left chest.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "FENCING"
+      ],
+      "graphics": [],
+      "graphic_placement": "left-chest",
+      "print_style": "white printed lettering",
+      "affiliation": null,
+      "sport": "fencing",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "fencing-left-chest-hoodie",
+      "image_path": "data/products/fencing-left-chest-hoodie.jpg",
+      "search_text": "Navy Yale Fencing Hoodie | A dark navy pullover hoodie with a front kangaroo pocket, drawstring hood, and long sleeves. White text reading “YALE” above “FENCING” is positioned on the left chest. | hoodie | navy | white | YALE | FENCING | left-chest | white printed lettering | fencing | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Football T-Shirt",
+      "description": "Navy short-sleeve T-shirt with a small white two-line graphic on the upper left chest. The graphic reads “YALE” above “FOOTBALL” in white block lettering.",
+      "garment_type": "t-shirt",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "FOOTBALL"
+      ],
+      "graphics": [
+        "two-line Yale football wordmark"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "football",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "football-left-chest-t-shirt",
+      "image_path": "data/products/football-left-chest-t-shirt.jpg",
+      "search_text": "Navy Yale Football T-Shirt | Navy short-sleeve T-shirt with a small white two-line graphic on the upper left chest. The graphic reads “YALE” above “FOOTBALL” in white block lettering. | t-shirt | navy | white | YALE | FOOTBALL | two-line Yale football wordmark | left-chest | screen print | football | athletic | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Grace Hopper College Crewneck",
+      "description": "Navy long-sleeve crewneck sweatshirt with a small multicolor Grace Hopper College crest on the upper left chest. The crest is positioned above the white text “GRACE HOPPER.”",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "blue",
+        "yellow",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "GRACE HOPPER"
+      ],
+      "graphics": [
+        "Grace Hopper College crest/shield"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "small printed emblem",
+      "affiliation": "Grace Hopper College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "grace-hopper-college-crewneck",
+      "image_path": "data/products/grace-hopper-college-crewneck.jpg",
+      "search_text": "Navy Grace Hopper College Crewneck | Navy long-sleeve crewneck sweatshirt with a small multicolor Grace Hopper College crest on the upper left chest. The crest is positioned above the white text “GRACE HOPPER.” | crewneck | navy | blue | yellow | white | black | GRACE HOPPER | Grace Hopper College crest/shield | left-chest | small printed emblem | Grace Hopper College | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Grace Hopper College T-Shirt",
+      "description": "Heather grey short-sleeve crew-neck T-shirt with a centered full-front crest graphic. The crest has a blue shield with white marks, a yellow sea-serpent-like figure, and a black-and-white crown-like band above it; black text below reads “GRACE HOPPER” and “COLLEGE” on two lines.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "blue",
+        "yellow",
+        "black",
+        "white"
+      ],
+      "printed_text": [
+        "GRACE HOPPER",
+        "COLLEGE"
+      ],
+      "graphics": [
+        "Grace Hopper College crest with blue shield, yellow sea-serpent-like figure, white marks, and black-and-white crown-like band"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Grace Hopper College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "college",
+        "crest",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "grace-hopper-logo-t-shirt",
+      "image_path": "data/products/grace-hopper-logo-t-shirt.jpg",
+      "search_text": "Heather Grey Grace Hopper College T-Shirt | Heather grey short-sleeve crew-neck T-shirt with a centered full-front crest graphic. The crest has a blue shield with white marks, a yellow sea-serpent-like figure, and a black-and-white crown-like band above it; black text below reads “GRACE HOPPER” and “COLLEGE” on two lines. | t-shirt | heather grey | blue | yellow | black | white | GRACE HOPPER | COLLEGE | Grace Hopper College crest with blue shield, yellow sea-serpent-like figure, white marks, and black-and-white crown-like band | full-front | screen print | Grace Hopper College | college | crest | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Offside Crewneck",
+      "description": "A dark navy long-sleeve crewneck sweatshirt with large white and gray varsity-style “YALE.” lettering centered across the chest, including a small period after the word. A small outlined “H V” emblem appears on the outer lower sleeve; ribbed cuffs and waistband finish the garment.",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "gray"
+      ],
+      "printed_text": [
+        "YALE.",
+        "H V"
+      ],
+      "graphics": [
+        "large varsity-style Yale wordmark",
+        "small outlined H V emblem"
+      ],
+      "graphic_placement": "multiple",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": "Hype and Vice",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "varsity",
+        "minimal",
+        "athletic"
+      ],
+      "product_id": "hype-and-vice-yale-university-offside-crewneck",
+      "image_path": "data/products/hype-and-vice-yale-university-offside-crewneck.jpg",
+      "search_text": "Navy Yale Offside Crewneck | A dark navy long-sleeve crewneck sweatshirt with large white and gray varsity-style “YALE.” lettering centered across the chest, including a small period after the word. A small outlined “H V” emblem appears on the outer lower sleeve; ribbed cuffs and waistband finish the garment. | crewneck | navy | white | gray | YALE. | H V | large varsity-style Yale wordmark | small outlined H V emblem | multiple | screen print | Yale University | Hype and Vice | collegiate | varsity | minimal | athletic",
+      "source": "model"
+    },
+    {
+      "title": "White Yale University Premium Crewneck",
+      "description": "White long-sleeve crewneck sweatshirt with navy-and-white ribbed trim at the collar, cuffs, and hem. The center front has large outlined “YALE” lettering, “Est. 1701” above it, a Yale crest beneath, and spaced “UNIVERSITY” text below; a small outlined logo patch is visible on the outer right sleeve.",
+      "garment_type": "crewneck",
+      "primary_color": "white",
+      "secondary_colors": [
+        "navy",
+        "green",
+        "gold",
+        "light blue"
+      ],
+      "printed_text": [
+        "Est. 1701",
+        "YALE",
+        "UNIVERSITY",
+        "LUX ET VERITAS",
+        "YALE"
+      ],
+      "graphics": [
+        "Yale shield and crest encircled by a green laurel wreath"
+      ],
+      "graphic_placement": "multiple",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "classic",
+        "minimal",
+        "athletic"
+      ],
+      "product_id": "hype-and-vice-yale-university-premium-crewneck",
+      "image_path": "data/products/hype-and-vice-yale-university-premium-crewneck.jpg",
+      "search_text": "White Yale University Premium Crewneck | White long-sleeve crewneck sweatshirt with navy-and-white ribbed trim at the collar, cuffs, and hem. The center front has large outlined “YALE” lettering, “Est. 1701” above it, a Yale crest beneath, and spaced “UNIVERSITY” text below; a small outlined logo patch is visible on the outer right sleeve. | crewneck | white | navy | green | gold | light blue | Est. 1701 | YALE | UNIVERSITY | LUX ET VERITAS | YALE | Yale shield and crest encircled by a green laurel wreath | multiple | screen print | Yale University | collegiate | classic | minimal | athletic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Hockey Hoodie",
+      "description": "A navy long-sleeve pullover hoodie with a front kangaroo pocket and matching navy drawstrings. Small white block lettering reading “YALE” above “HOCKEY” is printed on the left chest.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "HOCKEY"
+      ],
+      "graphics": [
+        "two-line Yale hockey lettering"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "white printed lettering",
+      "affiliation": null,
+      "sport": "hockey",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "ice-hockey-left-chest-hoodie",
+      "image_path": "data/products/ice-hockey-left-chest-hoodie.jpg",
+      "search_text": "Navy Yale Hockey Hoodie | A navy long-sleeve pullover hoodie with a front kangaroo pocket and matching navy drawstrings. Small white block lettering reading “YALE” above “HOCKEY” is printed on the left chest. | hoodie | navy | white | YALE | HOCKEY | two-line Yale hockey lettering | left-chest | white printed lettering | hockey | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Jonathan Edwards Crewneck",
+      "description": "A heather grey long-sleeve crewneck sweatshirt with a small crest graphic and the text “JONATHAN EDWARDS” printed on the upper left chest (viewer’s right). The neck label visibly reads “PORT & COMPANY.”",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "green",
+        "black",
+        "white"
+      ],
+      "printed_text": [
+        "JONATHAN EDWARDS",
+        "PORT & COMPANY"
+      ],
+      "graphics": [
+        "Jonathan Edwards College crest/shield with a green heraldic animal and decorative elements"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "small printed crest and text",
+      "affiliation": "Jonathan Edwards College",
+      "sport": null,
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "classic"
+      ],
+      "product_id": "jonathan-edwards-college-crewneck",
+      "image_path": "data/products/jonathan-edwards-college-crewneck.jpg",
+      "search_text": "Heather Grey Jonathan Edwards Crewneck | A heather grey long-sleeve crewneck sweatshirt with a small crest graphic and the text “JONATHAN EDWARDS” printed on the upper left chest (viewer’s right). The neck label visibly reads “PORT & COMPANY.” | crewneck | heather grey | green | black | white | JONATHAN EDWARDS | PORT & COMPANY | Jonathan Edwards College crest/shield with a green heraldic animal and decorative elements | left-chest | small printed crest and text | Jonathan Edwards College | Port & Company | minimal | collegiate | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Lacrosse Crewneck",
+      "description": "Navy long-sleeve crewneck sweatshirt with a small white two-line “YALE” and “LACROSSE” graphic on the upper left chest. Ribbed crew neckline, cuffs, and waistband are visible; a small white-and-blue neck label is also present.",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "blue"
+      ],
+      "printed_text": [
+        "YALE",
+        "LACROSSE"
+      ],
+      "graphics": [
+        "two-line Yale lacrosse wordmark"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "white printed lettering",
+      "affiliation": null,
+      "sport": "lacrosse",
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        " collegiate"
+      ],
+      "product_id": "lacrosse-left-chest-crewneck",
+      "image_path": "data/products/lacrosse-left-chest-crewneck.jpg",
+      "search_text": "Navy Yale Lacrosse Crewneck | Navy long-sleeve crewneck sweatshirt with a small white two-line “YALE” and “LACROSSE” graphic on the upper left chest. Ribbed crew neckline, cuffs, and waistband are visible; a small white-and-blue neck label is also present. | crewneck | navy | white | blue | YALE | LACROSSE | two-line Yale lacrosse wordmark | left-chest | white printed lettering | lacrosse | Port & Company | athletic | minimal |  collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Morse Quarter-Zip",
+      "description": "A heather grey long-sleeve quarter-zip pullover with a stand collar, short front zipper, and ribbed cuffs and hem. A small white shield-style Morse emblem with black and red details is embroidered/applied on the left chest, with the word “MORSE” directly beneath it.",
+      "garment_type": "quarter-zip",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "white",
+        "black",
+        "red"
+      ],
+      "printed_text": [
+        "MORSE"
+      ],
+      "graphics": [
+        "Morse shield emblem"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or sewn-on crest patch",
+      "affiliation": "Morse College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "classic",
+        "athletic"
+      ],
+      "product_id": "morse-1-4-zip",
+      "image_path": "data/products/morse-1-4-zip.jpg",
+      "search_text": "Heather Grey Morse Quarter-Zip | A heather grey long-sleeve quarter-zip pullover with a stand collar, short front zipper, and ribbed cuffs and hem. A small white shield-style Morse emblem with black and red details is embroidered/applied on the left chest, with the word “MORSE” directly beneath it. | quarter-zip | heather grey | white | black | red | MORSE | Morse shield emblem | left-chest | embroidered or sewn-on crest patch | Morse College | minimal | collegiate | classic | athletic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Morse College T-Shirt",
+      "description": "A heather grey short-sleeve crew-neck T-shirt with a centered full-front shield graphic. The shield is white with a black outline, three black circular details, and a red axe, with the text “MORSE” above “COLLEGE” printed in black beneath it.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "white",
+        "black",
+        "red"
+      ],
+      "printed_text": [
+        "MORSE",
+        "COLLEGE"
+      ],
+      "graphics": [
+        "Morse College shield",
+        "red axe",
+        "three black circular details"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Morse College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "collegiate",
+        "heraldic",
+        "minimal"
+      ],
+      "product_id": "morse-logo-t-shirt",
+      "image_path": "data/products/morse-logo-t-shirt.jpg",
+      "search_text": "Heather Grey Morse College T-Shirt | A heather grey short-sleeve crew-neck T-shirt with a centered full-front shield graphic. The shield is white with a black outline, three black circular details, and a red axe, with the text “MORSE” above “COLLEGE” printed in black beneath it. | t-shirt | heather grey | white | black | red | MORSE | COLLEGE | Morse College shield | red axe | three black circular details | full-front | screen print | Morse College | collegiate | heraldic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Navy Pierson College Crewneck",
+      "description": "A solid navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. A small black-and-yellow shield crest is positioned on the left chest, with the word “PIERSON” printed directly beneath it in small white lettering.",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "black",
+        "yellow",
+        "white"
+      ],
+      "printed_text": [
+        "PIERSON"
+      ],
+      "graphics": [
+        "Pierson College shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "small printed or embroidered crest-style chest decoration",
+      "affiliation": "Pierson College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "classic"
+      ],
+      "product_id": "pierson-college-crewneck",
+      "image_path": "data/products/pierson-college-crewneck.jpg",
+      "search_text": "Navy Pierson College Crewneck | A solid navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. A small black-and-yellow shield crest is positioned on the left chest, with the word “PIERSON” printed directly beneath it in small white lettering. | crewneck | navy | black | yellow | white | PIERSON | Pierson College shield crest | left-chest | small printed or embroidered crest-style chest decoration | Pierson College | minimal | collegiate | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Pierson College T-Shirt",
+      "description": "A heather grey short-sleeve crew-neck T-shirt with a centered full-front crest. The crest is black and yellow, with three yellow sunburst-like flowers and vertical bands of small yellow cross-like motifs; black text reading “PIERSON” and “COLLEGE” is printed beneath it.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "black",
+        "yellow"
+      ],
+      "printed_text": [
+        "PIERSON",
+        "COLLEGE"
+      ],
+      "graphics": [
+        "Pierson College crest with three yellow sunburst-like flowers and vertical yellow bands of cross-like motifs"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Pierson College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "crest"
+      ],
+      "product_id": "pierson-logo-t-shirt",
+      "image_path": "data/products/pierson-logo-t-shirt.jpg",
+      "search_text": "Heather Grey Pierson College T-Shirt | A heather grey short-sleeve crew-neck T-shirt with a centered full-front crest. The crest is black and yellow, with three yellow sunburst-like flowers and vertical bands of small yellow cross-like motifs; black text reading “PIERSON” and “COLLEGE” is printed beneath it. | t-shirt | heather grey | black | yellow | PIERSON | COLLEGE | Pierson College crest with three yellow sunburst-like flowers and vertical yellow bands of cross-like motifs | full-front | screen print | Pierson College | collegiate | minimal | crest",
+      "source": "model"
+    },
+    {
+      "title": "Cream Arched Yale Crewneck",
+      "description": "Cream/off-white long-sleeve crewneck sweatshirt with a large dark navy arched “YALE” wordmark across the upper front chest. A small trademark symbol appears immediately to the lower right of the wordmark; the sweatshirt has ribbed cuffs, collar, and waistband.",
+      "garment_type": "crewneck",
+      "primary_color": "cream",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "™"
+      ],
+      "graphics": [
+        "arched Yale wordmark"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "twill appliqué",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "bold"
+      ],
+      "product_id": "poly-twill-crewneck-arched-yale",
+      "image_path": "data/products/poly-twill-crewneck-arched-yale.jpg",
+      "search_text": "Cream Arched Yale Crewneck | Cream/off-white long-sleeve crewneck sweatshirt with a large dark navy arched “YALE” wordmark across the upper front chest. A small trademark symbol appears immediately to the lower right of the wordmark; the sweatshirt has ribbed cuffs, collar, and waistband. | crewneck | cream | dark navy | YALE | ™ | arched Yale wordmark | full-front | twill appliqué | collegiate | minimal | classic | bold",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Sailing Hoodie",
+      "description": "A solid dark navy pullover hoodie with a drawstring hood, long sleeves, and a front kangaroo pocket. White two-line text reading “YALE” above “SAILING” is printed on the left chest.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SAILING"
+      ],
+      "graphics": [
+        "two-line Yale Sailing text"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "white screen print",
+      "affiliation": null,
+      "sport": "sailing",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "sailing-left-chest-hoodie",
+      "image_path": "data/products/sailing-left-chest-hoodie.jpg",
+      "search_text": "Navy Yale Sailing Hoodie | A solid dark navy pullover hoodie with a drawstring hood, long sleeves, and a front kangaroo pocket. White two-line text reading “YALE” above “SAILING” is printed on the left chest. | hoodie | navy | white | YALE | SAILING | two-line Yale Sailing text | left-chest | white screen print | sailing | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Saybrook College Crewneck",
+      "description": "A navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. A small multicolor Saybrook shield crest is printed on the upper left chest, with the word \"SAYBROOK\" beneath it.",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "yellow",
+        "blue",
+        "white"
+      ],
+      "printed_text": [
+        "SAYBROOK"
+      ],
+      "graphics": [
+        "Saybrook College shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "small printed crest",
+      "affiliation": "Saybrook College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "classic"
+      ],
+      "product_id": "saybrook-college-crewneck",
+      "image_path": "data/products/saybrook-college-crewneck.jpg",
+      "search_text": "Navy Saybrook College Crewneck | A navy long-sleeve crewneck sweatshirt with ribbed collar, cuffs, and waistband. A small multicolor Saybrook shield crest is printed on the upper left chest, with the word \"SAYBROOK\" beneath it. | crewneck | navy | yellow | blue | white | SAYBROOK | Saybrook College shield crest | left-chest | small printed crest | Saybrook College | minimal | collegiate | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Saybrook College T-Shirt",
+      "description": "A heather grey short-sleeve crew-neck T-shirt with a centered multicolor shield crest on the upper front. The crest is divided into blue and yellow sections with heraldic animal and geometric motifs, and the black text “SAYBROOK” over “COLLEGE” is printed directly beneath it.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "printed_text": [
+        "SAYBROOK",
+        "COLLEGE"
+      ],
+      "graphics": [
+        "Saybrook College heraldic shield crest"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Saybrook College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "collegiate",
+        "heraldic",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "saybrook-logo-t-shirt",
+      "image_path": "data/products/saybrook-logo-t-shirt.jpg",
+      "search_text": "Heather Grey Saybrook College T-Shirt | A heather grey short-sleeve crew-neck T-shirt with a centered multicolor shield crest on the upper front. The crest is divided into blue and yellow sections with heraldic animal and geometric motifs, and the black text “SAYBROOK” over “COLLEGE” is printed directly beneath it. | t-shirt | heather grey | blue | yellow | black | SAYBROOK | COLLEGE | Saybrook College heraldic shield crest | full-front | screen print | Saybrook College | collegiate | heraldic | classic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Saybrook Fleece Jacket",
+      "description": "Heather grey full-zip fleece jacket with a stand collar, dark grey zipper and pocket trim, and long sleeves. A colorful Saybrook shield crest is positioned on the left chest, with the word “SAYBROOK” printed beneath it.",
+      "garment_type": "fleece-jacket",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark grey",
+        "yellow",
+        "blue",
+        "green"
+      ],
+      "printed_text": [
+        "SAYBROOK"
+      ],
+      "graphics": [
+        "Saybrook shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered crest",
+      "affiliation": "Saybrook College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "layering",
+        "classic"
+      ],
+      "product_id": "saybrook-sweater-fleece-jacket",
+      "image_path": "data/products/saybrook-sweater-fleece-jacket.jpg",
+      "search_text": "Heather Grey Saybrook Fleece Jacket | Heather grey full-zip fleece jacket with a stand collar, dark grey zipper and pocket trim, and long sleeves. A colorful Saybrook shield crest is positioned on the left chest, with the word “SAYBROOK” printed beneath it. | fleece-jacket | heather grey | dark grey | yellow | blue | green | SAYBROOK | Saybrook shield crest | left-chest | embroidered crest | Saybrook College | collegiate | minimal | layering | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Architecture Quarter-Zip",
+      "description": "A navy long-sleeve quarter-zip pullover with a stand collar, short front zipper, ribbed cuffs, and ribbed hem. The left chest has small light-colored text reading “YALE SCHOOL OF ARCHITECTURE” above a Yale shield crest with blue, gray, and white sections.",
+      "garment_type": "quarter-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "light gray",
+        "blue",
+        "white"
+      ],
+      "printed_text": [
+        "YALE SCHOOL OF ARCHITECTURE"
+      ],
+      "graphics": [
+        "Yale shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or stitched chest emblem and lettering",
+      "affiliation": "School of Architecture",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "academic",
+        "classic",
+        "quarter-zip"
+      ],
+      "product_id": "school-of-architecture-crewneck",
+      "image_path": "data/products/school-of-architecture-crewneck.jpg",
+      "search_text": "Navy Yale School of Architecture Quarter-Zip | A navy long-sleeve quarter-zip pullover with a stand collar, short front zipper, ribbed cuffs, and ribbed hem. The left chest has small light-colored text reading “YALE SCHOOL OF ARCHITECTURE” above a Yale shield crest with blue, gray, and white sections. | quarter-zip | navy | light gray | blue | white | YALE SCHOOL OF ARCHITECTURE | Yale shield crest | left-chest | embroidered or stitched chest emblem and lettering | School of Architecture | minimal | academic | classic | quarter-zip",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Architecture Full-Zip Fleece",
+      "description": "A navy heathered fleece jacket with a full front zipper, stand collar, and long sleeves. The upper left chest features small white text reading “YALE SCHOOL OF ARCHITECTURE” above a Yale School of Architecture shield crest with blue, white, and black details.",
+      "garment_type": "full-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "blue",
+        "black",
+        "silver"
+      ],
+      "printed_text": [
+        "YALE SCHOOL OF ARCHITECTURE"
+      ],
+      "graphics": [
+        "Yale School of Architecture shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or sewn-on chest decoration",
+      "affiliation": "School of Architecture",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "fleece",
+        "academic",
+        "minimal",
+        "full-zip"
+      ],
+      "product_id": "school-of-architecture-fleece-sweater",
+      "image_path": "data/products/school-of-architecture-fleece-sweater.jpg",
+      "search_text": "Navy Yale School of Architecture Full-Zip Fleece | A navy heathered fleece jacket with a full front zipper, stand collar, and long sleeves. The upper left chest features small white text reading “YALE SCHOOL OF ARCHITECTURE” above a Yale School of Architecture shield crest with blue, white, and black details. | full-zip | navy | white | blue | black | silver | YALE SCHOOL OF ARCHITECTURE | Yale School of Architecture shield crest | left-chest | embroidered or sewn-on chest decoration | School of Architecture | fleece | academic | minimal | full-zip",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Art Quarter-Zip",
+      "description": "A navy quarter-zip pullover with a short stand collar, long sleeves, ribbed cuffs, and a ribbed hem. The upper left chest has white text reading “Yale SCHOOL OF ART” above a colorful heraldic shield featuring blue, yellow, red, and green sections.",
+      "garment_type": "quarter-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "blue",
+        "yellow",
+        "red",
+        "green"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF ART"
+      ],
+      "graphics": [
+        "Yale School of Art heraldic shield"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or stitched chest decoration",
+      "affiliation": "School of Art",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "minimal",
+        "classic",
+        "collegiate"
+      ],
+      "product_id": "school-of-art-1-4-zip",
+      "image_path": "data/products/school-of-art-1-4-zip.jpg",
+      "search_text": "Navy Yale School of Art Quarter-Zip | A navy quarter-zip pullover with a short stand collar, long sleeves, ribbed cuffs, and a ribbed hem. The upper left chest has white text reading “Yale SCHOOL OF ART” above a colorful heraldic shield featuring blue, yellow, red, and green sections. | quarter-zip | navy | white | blue | yellow | red | green | Yale SCHOOL OF ART | Yale School of Art heraldic shield | left-chest | embroidered or stitched chest decoration | School of Art | academic | minimal | classic | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Art Full-Zip Fleece",
+      "description": "A navy heathered fleece full-zip jacket with a stand collar, long sleeves, and two lower front pockets. The left chest has white text reading “Yale SCHOOL OF ART” above a multicolored shield-style crest.",
+      "garment_type": "full-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "yellow",
+        "red",
+        "blue",
+        "green"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF ART"
+      ],
+      "graphics": [
+        "multicolored shield-style crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered",
+      "affiliation": "School of Art",
+      "sport": null,
+      "family_role": null,
+      "brand": "The North Face",
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "minimal",
+        "fleece",
+        "collegiate"
+      ],
+      "product_id": "school-of-art-fleece-sweater",
+      "image_path": "data/products/school-of-art-fleece-sweater.jpg",
+      "search_text": "Navy Yale School of Art Full-Zip Fleece | A navy heathered fleece full-zip jacket with a stand collar, long sleeves, and two lower front pockets. The left chest has white text reading “Yale SCHOOL OF ART” above a multicolored shield-style crest. | full-zip | navy | white | yellow | red | blue | green | Yale SCHOOL OF ART | multicolored shield-style crest | left-chest | embroidered | School of Art | The North Face | academic | minimal | fleece | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Engineering Quarter-Zip",
+      "description": "A navy long-sleeve quarter-zip pullover with a stand collar, short front zipper, and ribbed cuffs and waistband. The left chest has small white text reading “Yale school of engineering” and “and applied science” above a multicolor Yale Engineering shield emblem.",
+      "garment_type": "quarter-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "gold",
+        "blue",
+        "gray"
+      ],
+      "printed_text": [
+        "Yale school of engineering",
+        "and applied science"
+      ],
+      "graphics": [
+        "Yale Engineering shield emblem"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or appliqué left-chest emblem and lettering",
+      "affiliation": "School of Engineering and Applied Science",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "minimal",
+        "athletic",
+        "quarter-zip"
+      ],
+      "product_id": "school-of-engineering-1-4-zip",
+      "image_path": "data/products/school-of-engineering-1-4-zip.jpg",
+      "search_text": "Navy Yale School of Engineering Quarter-Zip | A navy long-sleeve quarter-zip pullover with a stand collar, short front zipper, and ribbed cuffs and waistband. The left chest has small white text reading “Yale school of engineering” and “and applied science” above a multicolor Yale Engineering shield emblem. | quarter-zip | navy | white | gold | blue | gray | Yale school of engineering | and applied science | Yale Engineering shield emblem | left-chest | embroidered or appliqué left-chest emblem and lettering | School of Engineering and Applied Science | academic | minimal | athletic | quarter-zip",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Management Crest T-Shirt",
+      "description": "A navy short-sleeve crew-neck T-shirt with a centered white and light-blue front design. The design reads “Yale SCHOOL OF MANAGEMENT” above a shield crest outlined in light blue, with a central diamond and circular blue-and-white elements; the crest also contains small, indistinct emblem details that are not legible in the photo.",
+      "garment_type": "t-shirt",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "light blue"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF MANAGEMENT"
+      ],
+      "graphics": [
+        "School of Management shield crest",
+        "central diamond",
+        "blue and white circular elements"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "School of Management",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "minimal",
+        "academic",
+        "crest",
+        "classic"
+      ],
+      "product_id": "school-of-management-crest-t-shirt",
+      "image_path": "data/products/school-of-management-crest-t-shirt.jpg",
+      "search_text": "Navy Yale School of Management Crest T-Shirt | A navy short-sleeve crew-neck T-shirt with a centered white and light-blue front design. The design reads “Yale SCHOOL OF MANAGEMENT” above a shield crest outlined in light blue, with a central diamond and circular blue-and-white elements; the crest also contains small, indistinct emblem details that are not legible in the photo. | t-shirt | navy | white | light blue | Yale SCHOOL OF MANAGEMENT | School of Management shield crest | central diamond | blue and white circular elements | full-front | screen print | School of Management | minimal | academic | crest | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Medicine Quarter-Zip",
+      "description": "Navy long-sleeve quarter-zip pullover with a stand collar and ribbed cuffs and hem. The upper left chest has white text reading “Yale SCHOOL OF MEDICINE” beside a multicolored shield crest featuring red, white, and green sections.",
+      "garment_type": "quarter-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "red",
+        "green"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF MEDICINE",
+        "Sport-Tek"
+      ],
+      "graphics": [
+        "Yale School of Medicine shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or stitched chest decoration",
+      "affiliation": "School of Medicine",
+      "sport": null,
+      "family_role": null,
+      "brand": "Sport-Tek",
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "minimal",
+        "athletic",
+        "professional"
+      ],
+      "product_id": "school-of-medicine-1-4-zip",
+      "image_path": "data/products/school-of-medicine-1-4-zip.jpg",
+      "search_text": "Navy Yale School of Medicine Quarter-Zip | Navy long-sleeve quarter-zip pullover with a stand collar and ribbed cuffs and hem. The upper left chest has white text reading “Yale SCHOOL OF MEDICINE” beside a multicolored shield crest featuring red, white, and green sections. | quarter-zip | navy | white | red | green | Yale SCHOOL OF MEDICINE | Sport-Tek | Yale School of Medicine shield crest | left-chest | embroidered or stitched chest decoration | School of Medicine | Sport-Tek | academic | minimal | athletic | professional",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Music Full-Zip Fleece",
+      "description": "Navy heathered full-zip fleece jacket with a high stand collar, long sleeves, and zippered front. The left chest has white “Yale SCHOOL OF MUSIC” text above a multicolor shield crest; a small interior collar brand mark is also visible but not legible enough to transcribe confidently.",
+      "garment_type": "full-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "red",
+        "blue",
+        "gold"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF MUSIC"
+      ],
+      "graphics": [
+        "Yale School of Music shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or heat-applied chest lettering with embroidered crest",
+      "affiliation": "School of Music",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "minimal",
+        "athletic",
+        "layering"
+      ],
+      "product_id": "school-of-music-fleece-sweater",
+      "image_path": "data/products/school-of-music-fleece-sweater.jpg",
+      "search_text": "Navy Yale School of Music Full-Zip Fleece | Navy heathered full-zip fleece jacket with a high stand collar, long sleeves, and zippered front. The left chest has white “Yale SCHOOL OF MUSIC” text above a multicolor shield crest; a small interior collar brand mark is also visible but not legible enough to transcribe confidently. | full-zip | navy | white | red | blue | gold | Yale SCHOOL OF MUSIC | Yale School of Music shield crest | left-chest | embroidered or heat-applied chest lettering with embroidered crest | School of Music | academic | minimal | athletic | layering",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Nursing Crest T-Shirt",
+      "description": "Navy short-sleeve T-shirt with white text reading “Yale SCHOOL OF NURSING” across the upper front. A centered Yale-style shield crest sits below the text, featuring a blue upper panel with an open book and small Hebrew lettering, plus a black lower shield with a white cross-like emblem.",
+      "garment_type": "t-shirt",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "blue",
+        "black",
+        "gold"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF NURSING"
+      ],
+      "graphics": [
+        "Yale-style shield crest",
+        "open book",
+        "white cross-like emblem"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "School of Nursing",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "academic",
+        "crest",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "school-of-nursing-crest-t-shirt",
+      "image_path": "data/products/school-of-nursing-crest-t-shirt.jpg",
+      "search_text": "Navy Yale School of Nursing Crest T-Shirt | Navy short-sleeve T-shirt with white text reading “Yale SCHOOL OF NURSING” across the upper front. A centered Yale-style shield crest sits below the text, featuring a blue upper panel with an open book and small Hebrew lettering, plus a black lower shield with a white cross-like emblem. | t-shirt | navy | white | blue | black | gold | Yale SCHOOL OF NURSING | Yale-style shield crest | open book | white cross-like emblem | full-front | screen print | School of Nursing | academic | crest | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale School of Public Health Quarter-Zip",
+      "description": "A navy long-sleeve quarter-zip pullover with a stand collar, short front zipper, ribbed cuffs, and ribbed hem. The upper left chest has small light-colored text reading “Yale SCHOOL OF PUBLIC HEALTH” beside a multicolored shield crest.",
+      "garment_type": "quarter-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF PUBLIC HEALTH"
+      ],
+      "graphics": [
+        "multicolored shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or appliquéd chest decoration",
+      "affiliation": "School of Public Health",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "school-of-public-health-1-4-zip",
+      "image_path": "data/products/school-of-public-health-1-4-zip.jpg",
+      "search_text": "Navy Yale School of Public Health Quarter-Zip | A navy long-sleeve quarter-zip pullover with a stand collar, short front zipper, ribbed cuffs, and ribbed hem. The upper left chest has small light-colored text reading “Yale SCHOOL OF PUBLIC HEALTH” beside a multicolored shield crest. | quarter-zip | navy | white | red | yellow | blue | Yale SCHOOL OF PUBLIC HEALTH | multicolored shield crest | left-chest | embroidered or appliquéd chest decoration | School of Public Health | academic | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Soccer Crewneck",
+      "description": "Navy long-sleeve crewneck sweatshirt with a small white graphic on the upper left chest. The graphic reads “YALE” in large serif capitals with “SOCCER” directly underneath in smaller capitals; a small neck label is also visible.",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SOCCER",
+        "PORT & COMPANY"
+      ],
+      "graphics": [
+        "two-line Yale soccer text graphic"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "white screen print",
+      "affiliation": null,
+      "sport": "soccer",
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "classic",
+        " collegiate"
+      ],
+      "product_id": "soccer-left-chest-crewneck",
+      "image_path": "data/products/soccer-left-chest-crewneck.jpg",
+      "search_text": "Navy Yale Soccer Crewneck | Navy long-sleeve crewneck sweatshirt with a small white graphic on the upper left chest. The graphic reads “YALE” in large serif capitals with “SOCCER” directly underneath in smaller capitals; a small neck label is also visible. | crewneck | navy | white | YALE | SOCCER | PORT & COMPANY | two-line Yale soccer text graphic | left-chest | white screen print | soccer | Port & Company | athletic | minimal | classic |  collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Squash Hoodie",
+      "description": "A navy pullover hoodie with a white left-chest graphic reading “YALE” above “SQUASH.” It has a front kangaroo pocket, matching navy drawstrings, and no other visible garment graphics.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SQUASH"
+      ],
+      "graphics": [
+        "block lettering"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "squash",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "squash-left-chest-hoodie",
+      "image_path": "data/products/squash-left-chest-hoodie.jpg",
+      "search_text": "Navy Yale Squash Hoodie | A navy pullover hoodie with a white left-chest graphic reading “YALE” above “SQUASH.” It has a front kangaroo pocket, matching navy drawstrings, and no other visible garment graphics. | hoodie | navy | white | YALE | SQUASH | block lettering | left-chest | screen print | squash | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Squash Crewneck",
+      "description": "Navy long-sleeve crewneck sweatshirt with a small white two-line “YALE” over “SQUASH” graphic on the left chest. Ribbed crew collar, cuffs, and waistband are visible; a small white neck label reads “PORT & COMPANY.”",
+      "garment_type": "crewneck",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SQUASH",
+        "PORT & COMPANY"
+      ],
+      "graphics": [
+        "two-line Yale squash wordmark"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "white screen print",
+      "affiliation": null,
+      "sport": "squash",
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "squash-left-chest-tennis",
+      "image_path": "data/products/squash-left-chest-tennis.jpg",
+      "search_text": "Navy Yale Squash Crewneck | Navy long-sleeve crewneck sweatshirt with a small white two-line “YALE” over “SQUASH” graphic on the left chest. Ribbed crew collar, cuffs, and waistband are visible; a small white neck label reads “PORT & COMPANY.” | crewneck | navy | white | YALE | SQUASH | PORT & COMPANY | two-line Yale squash wordmark | left-chest | white screen print | squash | Port & Company | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Bulldog Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a large arched “YALE” wordmark across the upper front. Beneath it is a navy-and-white bulldog graphic seated over a large navy “Y,” with small “YALE” lettering visible on the bulldog’s shirt.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphics": [
+        "bulldog",
+        "large Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "graphic",
+        "classic",
+        "athletic"
+      ],
+      "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+      "image_path": "data/products/super-heavyweight-crewneck-arched-yale-crest.jpg",
+      "search_text": "Heather Grey Yale Bulldog Crewneck | Heather grey long-sleeve crewneck sweatshirt with a large arched “YALE” wordmark across the upper front. Beneath it is a navy-and-white bulldog graphic seated over a large navy “Y,” with small “YALE” lettering visible on the bulldog’s shirt. | crewneck | heather grey | navy | white | YALE | bulldog | large Y | full-front | screen print | collegiate | graphic | classic | athletic",
+      "source": "model"
+    },
+    {
+      "title": "Cream Yale Y Heavyweight T-Shirt",
+      "description": "A cream short-sleeve T-shirt with a large solid navy block letter “Y” centered on the front. The inside neck label visibly reads “YALE,” with a smaller brand mark beneath it that is not fully legible.",
+      "garment_type": "t-shirt",
+      "primary_color": "cream",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "Y",
+        "YALE"
+      ],
+      "graphics": [
+        "large block letter Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "solid screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "heavyweight",
+        "classic"
+      ],
+      "product_id": "t-felt-y-heavyweight",
+      "image_path": "data/products/t-felt-y-heavyweight.jpg",
+      "search_text": "Cream Yale Y Heavyweight T-Shirt | A cream short-sleeve T-shirt with a large solid navy block letter “Y” centered on the front. The inside neck label visibly reads “YALE,” with a smaller brand mark beneath it that is not fully legible. | t-shirt | cream | navy | Y | YALE | large block letter Y | full-front | solid screen print | Yale University | minimal | collegiate | heavyweight | classic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale The Forest School Hoodie",
+      "description": "A dark navy pullover hoodie with a white full-front print. The print features large collegiate-style “YALE” lettering across the upper chest and “THE FOREST SCHOOL” in smaller white capital letters directly beneath it; the hoodie also has a front kangaroo pocket and matching navy drawstrings.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "THE FOREST SCHOOL"
+      ],
+      "graphics": [],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "The Forest School",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "school-spirit"
+      ],
+      "product_id": "the-forest-school-hoodie",
+      "image_path": "data/products/the-forest-school-hoodie.jpg",
+      "search_text": "Navy Yale The Forest School Hoodie | A dark navy pullover hoodie with a white full-front print. The print features large collegiate-style “YALE” lettering across the upper chest and “THE FOREST SCHOOL” in smaller white capital letters directly beneath it; the hoodie also has a front kangaroo pocket and matching navy drawstrings. | hoodie | navy | white | YALE | THE FOREST SCHOOL | full-front | screen print | The Forest School | collegiate | minimal | classic | school-spirit",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Timothy Dwight College Crewneck",
+      "description": "A heather grey crewneck sweatshirt with ribbed collar, cuffs and waistband. A small crest on the left chest has a red top band with a white crescent moon above a white field with a red lion, and 'TIMOTHY DWIGHT' is printed beneath it in small black serif capitals.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "red",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "TIMOTHY DWIGHT"
+      ],
+      "graphics": [
+        "Timothy Dwight College shield crest",
+        "crescent moon",
+        "lion"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "small screen print",
+      "affiliation": "Timothy Dwight College",
+      "sport": null,
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "classic"
+      ],
+      "product_id": "timothy-dwight-college-crewneck",
+      "image_path": "data/products/timothy-dwight-college-crewneck.jpg",
+      "search_text": "Heather Grey Timothy Dwight College Crewneck | A heather grey crewneck sweatshirt with ribbed collar, cuffs and waistband. A small crest on the left chest has a red top band with a white crescent moon above a white field with a red lion, and 'TIMOTHY DWIGHT' is printed beneath it in small black serif capitals. | crewneck | heather grey | red | white | black | TIMOTHY DWIGHT | Timothy Dwight College shield crest | crescent moon | lion | left-chest | small screen print | Timothy Dwight College | Port & Company | minimal | collegiate | classic",
+      "source": "manual"
+    },
+    {
+      "title": "Navy Yale Track & Field T-Shirt",
+      "description": "A plain navy short-sleeve crew-neck T-shirt with a small white printed design on the wearer’s left chest. The design reads “YALE” above “TRACK & FIELD” in white lettering.",
+      "garment_type": "t-shirt",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "TRACK & FIELD"
+      ],
+      "graphics": [
+        "text-only Yale Track & Field design"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "track & field",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "track-field-left-chest-t-shirt",
+      "image_path": "data/products/track-field-left-chest-t-shirt.jpg",
+      "search_text": "Navy Yale Track & Field T-Shirt | A plain navy short-sleeve crew-neck T-shirt with a small white printed design on the wearer’s left chest. The design reads “YALE” above “TRACK & FIELD” in white lettering. | t-shirt | navy | white | YALE | TRACK & FIELD | text-only Yale Track & Field design | left-chest | screen print | track & field | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Baseball T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a centered full-front graphic. The design reads “YALE” above “BASEBALL,” with a large outlined “Y” beneath, all in dark navy blue.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy blue"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL",
+        "Y"
+      ],
+      "graphics": [
+        "large outlined Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "baseball",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "bold"
+      ],
+      "product_id": "tri-blend-sports-baseball-t-shirt",
+      "image_path": "data/products/tri-blend-sports-baseball-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Baseball T-Shirt | Heather grey short-sleeve T-shirt with a centered full-front graphic. The design reads “YALE” above “BASEBALL,” with a large outlined “Y” beneath, all in dark navy blue. | t-shirt | heather grey | dark navy blue | YALE | BASEBALL | Y | large outlined Yale Y | full-front | screen print | baseball | athletic | collegiate | minimal | bold",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Basketball T-Shirt",
+      "description": "A heather grey short-sleeve T-shirt with a centered front design in dark navy. The design reads “YALE” above “BASKETBALL,” with a large outlined Yale “Y” directly beneath.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASKETBALL",
+        "Y"
+      ],
+      "graphics": [
+        "large Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale",
+      "sport": "basketball",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "graphic"
+      ],
+      "product_id": "tri-blend-sports-basketball-t-shirt",
+      "image_path": "data/products/tri-blend-sports-basketball-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Basketball T-Shirt | A heather grey short-sleeve T-shirt with a centered front design in dark navy. The design reads “YALE” above “BASKETBALL,” with a large outlined Yale “Y” directly beneath. | t-shirt | heather grey | dark navy | YALE | BASKETBALL | Y | large Yale Y | full-front | screen print | Yale | basketball | athletic | collegiate | minimal | graphic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Football T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a centered dark navy stacked chest graphic. The graphic reads “YALE” above “FOOTBALL,” with a large navy “Y” below.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "FOOTBALL",
+        "Y"
+      ],
+      "graphics": [
+        "large letter Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "football",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "tri-blend-sports-football-t-shirt",
+      "image_path": "data/products/tri-blend-sports-football-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Football T-Shirt | Heather grey short-sleeve T-shirt with a centered dark navy stacked chest graphic. The graphic reads “YALE” above “FOOTBALL,” with a large navy “Y” below. | t-shirt | heather grey | dark navy | YALE | FOOTBALL | Y | large letter Y | full-front | screen print | football | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Hockey T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a large centered navy design reading “YALE” above “HOCKEY,” with a navy outlined Yale Y beneath. A small white “CAMPUS COLORS” label and additional tiny white label text are visible inside the back collar.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "HOCKEY",
+        "CAMPUS COLORS"
+      ],
+      "graphics": [
+        "large Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "hockey",
+      "family_role": null,
+      "brand": "Campus Colors",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "tri-blend-sports-hockey-t-shirt",
+      "image_path": "data/products/tri-blend-sports-hockey-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Hockey T-Shirt | Heather grey short-sleeve T-shirt with a large centered navy design reading “YALE” above “HOCKEY,” with a navy outlined Yale Y beneath. A small white “CAMPUS COLORS” label and additional tiny white label text are visible inside the back collar. | t-shirt | heather grey | navy | white | YALE | HOCKEY | CAMPUS COLORS | large Yale Y | full-front | screen print | hockey | Campus Colors | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Soccer T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a centered navy graphic on the upper front. The design reads “YALE” above “SOCCER,” with a large “Y” below.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "SOCCER",
+        "Y"
+      ],
+      "graphics": [
+        "large letter Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "soccer",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "tri-blend-sports-soccer-t-shirt",
+      "image_path": "data/products/tri-blend-sports-soccer-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Soccer T-Shirt | Heather grey short-sleeve T-shirt with a centered navy graphic on the upper front. The design reads “YALE” above “SOCCER,” with a large “Y” below. | t-shirt | heather grey | navy | YALE | SOCCER | Y | large letter Y | full-front | screen print | soccer | athletic | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Tennis T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a centered dark navy stacked front design. The design reads “YALE” above “TENNIS,” with a large navy “Y” underneath.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "TENNIS",
+        "Y"
+      ],
+      "graphics": [
+        "large block letter Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale",
+      "sport": "tennis",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "tri-blend-sports-tennis-t-shirt",
+      "image_path": "data/products/tri-blend-sports-tennis-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Tennis T-Shirt | Heather grey short-sleeve T-shirt with a centered dark navy stacked front design. The design reads “YALE” above “TENNIS,” with a large navy “Y” underneath. | t-shirt | heather grey | dark navy | YALE | TENNIS | Y | large block letter Y | full-front | screen print | Yale | tennis | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Track & Field T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a centered dark navy front print. The design reads “YALE” above “TRACK & FIELD,” with a large “Y” beneath.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "TRACK & FIELD",
+        "Y"
+      ],
+      "graphics": [
+        "large letter Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "track and field",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "tri-blend-sports-track-and-field-t-shirt",
+      "image_path": "data/products/tri-blend-sports-track-and-field-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Track & Field T-Shirt | Heather grey short-sleeve T-shirt with a centered dark navy front print. The design reads “YALE” above “TRACK & FIELD,” with a large “Y” beneath. | t-shirt | heather grey | dark navy | YALE | TRACK & FIELD | Y | large letter Y | full-front | screen print | track and field | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Trumbull Quarter-Zip",
+      "description": "Heather grey long-sleeve quarter-zip pullover with a stand collar and short front zipper. The upper left chest features a small black-and-white Trumbull crest with three animal heads and a central shield-like emblem, with the word “TRUMBULL” printed beneath it.",
+      "garment_type": "quarter-zip",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "black",
+        "white"
+      ],
+      "printed_text": [
+        "TRUMBULL"
+      ],
+      "graphics": [
+        "black-and-white Trumbull crest with three animal heads and a central shield-like emblem"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "screen print or printed crest",
+      "affiliation": "Trumbull College",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "minimal",
+        "collegiate",
+        "classic",
+        "athletic"
+      ],
+      "product_id": "trumbull-1-4-zip",
+      "image_path": "data/products/trumbull-1-4-zip.jpg",
+      "search_text": "Heather Grey Trumbull Quarter-Zip | Heather grey long-sleeve quarter-zip pullover with a stand collar and short front zipper. The upper left chest features a small black-and-white Trumbull crest with three animal heads and a central shield-like emblem, with the word “TRUMBULL” printed beneath it. | quarter-zip | heather grey | black | white | TRUMBULL | black-and-white Trumbull crest with three animal heads and a central shield-like emblem | left-chest | screen print or printed crest | Trumbull College | minimal | collegiate | classic | athletic",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Under Armour Gameday Hoodie",
+      "description": "Navy long-sleeve pullover hoodie with a white block “Y” on the upper left chest and a white Under Armour logo on the outer sleeve. The hood has white edging/drawcord trim, and the body and sleeves have a textured double-knit appearance.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "Y"
+      ],
+      "graphics": [
+        "block Y",
+        "Under Armour logo"
+      ],
+      "graphic_placement": "multiple",
+      "print_style": "appliqué or embroidered-style athletic lettering; sleeve logo",
+      "affiliation": "Yale",
+      "sport": null,
+      "family_role": null,
+      "brand": "Under Armour",
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "gameday",
+        "minimal",
+        "textured"
+      ],
+      "product_id": "ua-gameday-double-knit-hood",
+      "image_path": "data/products/ua-gameday-double-knit-hood.jpg",
+      "search_text": "Navy Yale Under Armour Gameday Hoodie | Navy long-sleeve pullover hoodie with a white block “Y” on the upper left chest and a white Under Armour logo on the outer sleeve. The hood has white edging/drawcord trim, and the body and sleeves have a textured double-knit appearance. | hoodie | navy | white | Y | block Y | Under Armour logo | multiple | appliqué or embroidered-style athletic lettering; sleeve logo | Yale | Under Armour | athletic | gameday | minimal | textured",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Bulldogs Under Armour Tech Long-Sleeve Shirt",
+      "description": "Navy long-sleeve performance shirt with a large white and light-gray outlined “YALE” graphic across the upper chest, a white “Y” beneath it, and bold white “BULLDOGS” text across the mid-chest. A row of diagonal white lines and a white Under Armour logo sit below the text on the front.",
+      "garment_type": "long-sleeve",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "light gray"
+      ],
+      "printed_text": [
+        "YALE",
+        "Y",
+        "BULLDOGS"
+      ],
+      "graphics": [
+        "outlined YALE lettering",
+        "Y emblem",
+        "diagonal stripe pattern",
+        "Under Armour logo"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale",
+      "sport": null,
+      "family_role": null,
+      "brand": "Under Armour",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "performance",
+        "bold",
+        "collegiate"
+      ],
+      "product_id": "ua-mens-tech-l-s-2-0",
+      "image_path": "data/products/ua-mens-tech-l-s-2-0.jpg",
+      "search_text": "Navy Yale Bulldogs Under Armour Tech Long-Sleeve Shirt | Navy long-sleeve performance shirt with a large white and light-gray outlined “YALE” graphic across the upper chest, a white “Y” beneath it, and bold white “BULLDOGS” text across the mid-chest. A row of diagonal white lines and a white Under Armour logo sit below the text on the front. | long-sleeve | navy | white | light gray | YALE | Y | BULLDOGS | outlined YALE lettering | Y emblem | diagonal stripe pattern | Under Armour logo | full-front | screen print | Yale | Under Armour | athletic | performance | bold | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Volleyball Hoodie",
+      "description": "A navy pullover hoodie with a white left-chest design reading “YALE” above “VOLLEYBALL.” It has a matching navy drawstring hood, long sleeves, and a front kangaroo pocket.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "VOLLEYBALL"
+      ],
+      "graphics": [],
+      "graphic_placement": "left-chest",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "volleyball",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "volleyball-left-chest-hoodie",
+      "image_path": "data/products/volleyball-left-chest-hoodie.jpg",
+      "search_text": "Navy Yale Volleyball Hoodie | A navy pullover hoodie with a white left-chest design reading “YALE” above “VOLLEYBALL.” It has a matching navy drawstring hood, long sleeves, and a front kangaroo pocket. | hoodie | navy | white | YALE | VOLLEYBALL | left-chest | screen print | volleyball | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Aunt Hoodie",
+      "description": "A dark navy pullover hoodie with a front kangaroo pocket and white drawcords. The full-front graphic features large white “YALE” lettering between horizontal light gray and white lines, with smaller “UNIVERSITY” and “AUNT” text beneath.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "light gray"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "AUNT"
+      ],
+      "graphics": [
+        "horizontal stripes surrounding Yale wordmark"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": "Aunt",
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "family-themed",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-aunt-hoodie",
+      "image_path": "data/products/yale-aunt-hoodie.jpg",
+      "search_text": "Navy Yale Aunt Hoodie | A dark navy pullover hoodie with a front kangaroo pocket and white drawcords. The full-front graphic features large white “YALE” lettering between horizontal light gray and white lines, with smaller “UNIVERSITY” and “AUNT” text beneath. | hoodie | navy | white | light gray | YALE | UNIVERSITY | AUNT | horizontal stripes surrounding Yale wordmark | full-front | screen print | Aunt | collegiate | family-themed | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "White Yale Bowl Ringer T-Shirt",
+      "description": "White short-sleeve ringer T-shirt with navy ribbed collar and sleeve bands. The centered navy-and-blue front graphic features script “Yale,” a block Y, an illustrated Yale Bowl stadium, and multiple Bulldog-themed phrases including “FOR GOD, FOR COUNTRY, and for Yale” and “Go Bulldogs!”",
+      "garment_type": "t-shirt",
+      "primary_color": "white",
+      "secondary_colors": [
+        "navy",
+        "blue"
+      ],
+      "printed_text": [
+        "Yale",
+        "BOWL",
+        "BOWL BOWL",
+        "FOR GOD, FOR COUNTRY, and for Yale",
+        "BULLDOG BULLDOG BOW WOW WOW",
+        "Go Bulldogs!"
+      ],
+      "graphics": [
+        "illustrated Yale Bowl stadium/field",
+        "block Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": "football",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "collegiate",
+        "retro",
+        "athletic",
+        "ringer",
+        "graphic"
+      ],
+      "product_id": "yale-bowl-t-shirt",
+      "image_path": "data/products/yale-bowl-t-shirt.jpg",
+      "search_text": "White Yale Bowl Ringer T-Shirt | White short-sleeve ringer T-shirt with navy ribbed collar and sleeve bands. The centered navy-and-blue front graphic features script “Yale,” a block Y, an illustrated Yale Bowl stadium, and multiple Bulldog-themed phrases including “FOR GOD, FOR COUNTRY, and for Yale” and “Go Bulldogs!” | t-shirt | white | navy | blue | Yale | BOWL | BOWL BOWL | FOR GOD, FOR COUNTRY, and for Yale | BULLDOG BULLDOG BOW WOW WOW | Go Bulldogs! | illustrated Yale Bowl stadium/field | block Y | full-front | screen print | Yale University | football | collegiate | retro | athletic | ringer | graphic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Brother Crewneck",
+      "description": "A heather grey long-sleeve crewneck sweatshirt with a large navy “YALE” wordmark centered on the upper front between two horizontal navy lines, with “BROTHER” printed beneath. A small “PORT & COMPANY” label is visible inside the collar.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "BROTHER",
+        "PORT & COMPANY"
+      ],
+      "graphics": [
+        "Yale wordmark with horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": "Brother",
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "family-themed"
+      ],
+      "product_id": "yale-brother-crewneck",
+      "image_path": "data/products/yale-brother-crewneck.jpg",
+      "search_text": "Heather Grey Yale Brother Crewneck | A heather grey long-sleeve crewneck sweatshirt with a large navy “YALE” wordmark centered on the upper front between two horizontal navy lines, with “BROTHER” printed beneath. A small “PORT & COMPANY” label is visible inside the collar. | crewneck | heather grey | navy | YALE | BROTHER | PORT & COMPANY | Yale wordmark with horizontal lines | full-front | screen print | Brother | Port & Company | collegiate | minimal | classic | family-themed",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Cousin Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a centered navy graphic on the upper front. The design features large “YALE” lettering between horizontal lines, with “UNIVERSITY” beneath it and “COUSIN” below that.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "COUSIN"
+      ],
+      "graphics": [
+        "large Yale wordmark between horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": "Cousin",
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "family-themed",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "yale-cousin-crewneck",
+      "image_path": "data/products/yale-cousin-crewneck.jpg",
+      "search_text": "Heather Grey Yale Cousin Crewneck | Heather grey long-sleeve crewneck sweatshirt with a centered navy graphic on the upper front. The design features large “YALE” lettering between horizontal lines, with “UNIVERSITY” beneath it and “COUSIN” below that. | crewneck | heather grey | navy | YALE | UNIVERSITY | COUSIN | large Yale wordmark between horizontal lines | full-front | screen print | Yale University | Cousin | Port & Company | collegiate | family-themed | classic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Dad Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a dark navy full-front graphic. The design features large “YALE” lettering between two horizontal navy lines, with smaller “UNIVERSITY” beneath the lettering and “DAD” below that.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "DAD"
+      ],
+      "graphics": [
+        "large Yale wordmark with horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": "Dad",
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "classic",
+        "family",
+        "minimal"
+      ],
+      "product_id": "yale-dad-crewneck",
+      "image_path": "data/products/yale-dad-crewneck.jpg",
+      "search_text": "Heather Grey Yale Dad Crewneck | Heather grey long-sleeve crewneck sweatshirt with a dark navy full-front graphic. The design features large “YALE” lettering between two horizontal navy lines, with smaller “UNIVERSITY” beneath the lettering and “DAD” below that. | crewneck | heather grey | dark navy | YALE | UNIVERSITY | DAD | large Yale wordmark with horizontal lines | full-front | screen print | Yale University | Dad | collegiate | classic | family | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Dad Hoodie",
+      "description": "A dark navy pullover hoodie with a front kangaroo pocket, hood, and matching navy drawstrings. The upper front has a large white “YALE” graphic framed by horizontal white lines, with small “UNIVERSITY” text beneath it and large “DAD” text below.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "DAD"
+      ],
+      "graphics": [
+        "large Yale wordmark with horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": "Dad",
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "family",
+        "minimal",
+        "bold"
+      ],
+      "product_id": "yale-dad-hoodie",
+      "image_path": "data/products/yale-dad-hoodie.jpg",
+      "search_text": "Navy Yale Dad Hoodie | A dark navy pullover hoodie with a front kangaroo pocket, hood, and matching navy drawstrings. The upper front has a large white “YALE” graphic framed by horizontal white lines, with small “UNIVERSITY” text beneath it and large “DAD” text below. | hoodie | navy | white | YALE | UNIVERSITY | DAD | large Yale wordmark with horizontal lines | full-front | screen print | Dad | collegiate | family | minimal | bold",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Dad T-Shirt",
+      "description": "A heather grey short-sleeve T-shirt with a navy full-front collegiate-style design. The design features large “YALE” lettering above a horizontal line, small “UNIVERSITY” text centered on the line, and “DAD” beneath it.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "DAD"
+      ],
+      "graphics": [
+        "collegiate lettering",
+        "horizontal line"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": "Dad",
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "family"
+      ],
+      "product_id": "yale-dad-t-shirt",
+      "image_path": "data/products/yale-dad-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Dad T-Shirt | A heather grey short-sleeve T-shirt with a navy full-front collegiate-style design. The design features large “YALE” lettering above a horizontal line, small “UNIVERSITY” text centered on the line, and “DAD” beneath it. | t-shirt | heather grey | navy | YALE | UNIVERSITY | DAD | collegiate lettering | horizontal line | full-front | screen print | Dad | collegiate | minimal | family",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Diving T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a centered navy-blue front design. The design reads “YALE” above “DIVING,” with a large navy Yale Y beneath the words.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy blue"
+      ],
+      "printed_text": [
+        "YALE",
+        "DIVING",
+        "Y"
+      ],
+      "graphics": [
+        "large Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "diving",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "minimal",
+        "collegiate"
+      ],
+      "product_id": "yale-diving-t-shirt",
+      "image_path": "data/products/yale-diving-t-shirt.jpg",
+      "search_text": "Heather Grey Yale Diving T-Shirt | Heather grey short-sleeve T-shirt with a centered navy-blue front design. The design reads “YALE” above “DIVING,” with a large navy Yale Y beneath the words. | t-shirt | heather grey | navy blue | YALE | DIVING | Y | large Yale Y | full-front | screen print | diving | athletic | minimal | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Grandma Hoodie",
+      "description": "A navy pullover hoodie with a white collegiate chest graphic. The front design features large \"YALE\" lettering between horizontal lines, with smaller \"UNIVERSITY\" and \"GRANDMA\" text beneath; it also has a front kangaroo pocket and matching navy drawstrings.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "GRANDMA"
+      ],
+      "graphics": [
+        "collegiate horizontal-line design"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": "Grandma",
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "family-role",
+        "classic",
+        "athletic"
+      ],
+      "product_id": "yale-grandma-hoodie",
+      "image_path": "data/products/yale-grandma-hoodie.jpg",
+      "search_text": "Navy Yale Grandma Hoodie | A navy pullover hoodie with a white collegiate chest graphic. The front design features large \"YALE\" lettering between horizontal lines, with smaller \"UNIVERSITY\" and \"GRANDMA\" text beneath; it also has a front kangaroo pocket and matching navy drawstrings. | hoodie | navy | white | YALE | UNIVERSITY | GRANDMA | collegiate horizontal-line design | full-front | screen print | Grandma | collegiate | family-role | classic | athletic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Grandpa Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a large navy collegiate-style “YALE” graphic across the upper front, framed by thin horizontal lines. Smaller navy text beneath reads “UNIVERSITY” and “GRANDPA.”",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "GRANDPA"
+      ],
+      "graphics": [
+        "collegiate block lettering",
+        "horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": "Grandpa",
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "family",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "yale-grandpa-crewneck",
+      "image_path": "data/products/yale-grandpa-crewneck.jpg",
+      "search_text": "Heather Grey Yale Grandpa Crewneck | Heather grey long-sleeve crewneck sweatshirt with a large navy collegiate-style “YALE” graphic across the upper front, framed by thin horizontal lines. Smaller navy text beneath reads “UNIVERSITY” and “GRANDPA.” | crewneck | heather grey | navy | YALE | UNIVERSITY | GRANDPA | collegiate block lettering | horizontal lines | full-front | screen print | Yale University | Grandpa | Port & Company | collegiate | family | classic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Grandpa Hoodie",
+      "description": "A navy pullover hoodie with a large white front graphic centered across the chest. The graphic features oversized “YALE” lettering between two thin horizontal lines, with smaller “UNIVERSITY” text and “GRANDPA” beneath it; the hoodie also has a drawstring hood and a front kangaroo pocket.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "GRANDPA"
+      ],
+      "graphics": [
+        "large block Yale wordmark",
+        "two horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": "Grandpa",
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "family",
+        "minimal",
+        "bold"
+      ],
+      "product_id": "yale-grandpa-hoodie",
+      "image_path": "data/products/yale-grandpa-hoodie.jpg",
+      "search_text": "Navy Yale Grandpa Hoodie | A navy pullover hoodie with a large white front graphic centered across the chest. The graphic features oversized “YALE” lettering between two thin horizontal lines, with smaller “UNIVERSITY” text and “GRANDPA” beneath it; the hoodie also has a drawstring hood and a front kangaroo pocket. | hoodie | navy | white | YALE | UNIVERSITY | GRANDPA | large block Yale wordmark | two horizontal lines | full-front | screen print | Grandpa | collegiate | family | minimal | bold",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Law School Quarter-Zip",
+      "description": "Navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs, and a ribbed hem. White “Yale Law School” text and a small multicolor shield crest are positioned on the left chest.",
+      "garment_type": "quarter-zip",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white",
+        "green",
+        "gold",
+        "red"
+      ],
+      "printed_text": [
+        "Yale Law School"
+      ],
+      "graphics": [
+        "Yale Law School shield crest"
+      ],
+      "graphic_placement": "left-chest",
+      "print_style": "embroidered or appliqué chest decoration",
+      "affiliation": "Yale Law School",
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": true,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "academic",
+        "minimal",
+        "classic",
+        "collegiate"
+      ],
+      "product_id": "yale-law-school-1-4-zip",
+      "image_path": "data/products/yale-law-school-1-4-zip.jpg",
+      "search_text": "Navy Yale Law School Quarter-Zip | Navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs, and a ribbed hem. White “Yale Law School” text and a small multicolor shield crest are positioned on the left chest. | quarter-zip | navy | white | green | gold | red | Yale Law School | Yale Law School shield crest | left-chest | embroidered or appliqué chest decoration | Yale Law School | academic | minimal | classic | collegiate",
+      "source": "model"
+    },
+    {
+      "title": "Ivory Yale Bulldogs Mockneck Sweatshirt",
+      "description": "An ivory/cream long-sleeve mockneck sweatshirt with a ribbed mock collar, cuffs, and waistband. The upper front features large arched “BULLDOGS” lettering in dark navy with light-blue and red outlining.",
+      "garment_type": "mockneck",
+      "primary_color": "ivory",
+      "secondary_colors": [
+        "dark navy",
+        "light blue",
+        "red"
+      ],
+      "printed_text": [
+        "BULLDOGS"
+      ],
+      "graphics": [
+        "arched collegiate lettering"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "layered collegiate print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "athletic",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-maplehouse-diana-mockneck",
+      "image_path": "data/products/yale-maplehouse-diana-mockneck.jpg",
+      "search_text": "Ivory Yale Bulldogs Mockneck Sweatshirt | An ivory/cream long-sleeve mockneck sweatshirt with a ribbed mock collar, cuffs, and waistband. The upper front features large arched “BULLDOGS” lettering in dark navy with light-blue and red outlining. | mockneck | ivory | dark navy | light blue | red | BULLDOGS | arched collegiate lettering | full-front | layered collegiate print | collegiate | athletic | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Mom Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a centered navy front graphic. The design has two horizontal navy lines framing large \"YALE\" lettering, with \"UNIVERSITY\" in smaller text beneath it and \"MOM\" below that; a small neck label reads \"PORT & COMPANY.\"",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "MOM",
+        "PORT & COMPANY"
+      ],
+      "graphics": [
+        "horizontal lines framing the Yale wordmark"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": "Mom",
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "family"
+      ],
+      "product_id": "yale-mom-crewneck",
+      "image_path": "data/products/yale-mom-crewneck.jpg",
+      "search_text": "Heather Grey Yale Mom Crewneck | Heather grey long-sleeve crewneck sweatshirt with a centered navy front graphic. The design has two horizontal navy lines framing large \"YALE\" lettering, with \"UNIVERSITY\" in smaller text beneath it and \"MOM\" below that; a small neck label reads \"PORT & COMPANY.\" | crewneck | heather grey | navy | YALE | UNIVERSITY | MOM | PORT & COMPANY | horizontal lines framing the Yale wordmark | full-front | screen print | Yale University | Mom | Port & Company | collegiate | minimal | classic | family",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Mom Hoodie",
+      "description": "A navy pullover hoodie with a front kangaroo pocket, drawstring hood, and long sleeves. The upper full-front graphic is white and features large block “YALE” lettering between horizontal lines, with smaller “UNIVERSITY” text and large “MOM” text beneath.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "MOM"
+      ],
+      "graphics": [
+        "horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": null,
+      "family_role": "Mom",
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "minimal",
+        "classic",
+        "family"
+      ],
+      "product_id": "yale-mom-hoodie",
+      "image_path": "data/products/yale-mom-hoodie.jpg",
+      "search_text": "Navy Yale Mom Hoodie | A navy pullover hoodie with a front kangaroo pocket, drawstring hood, and long sleeves. The upper full-front graphic is white and features large block “YALE” lettering between horizontal lines, with smaller “UNIVERSITY” text and large “MOM” text beneath. | hoodie | navy | white | YALE | UNIVERSITY | MOM | horizontal lines | full-front | screen print | Mom | collegiate | minimal | classic | family",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Field Hockey Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a centered navy graphic on the front. The design reads “YALE” above “FIELD HOCKEY,” with a large outlined navy “Y” beneath; a small “PORT & COMPANY” label is visible inside the collar.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "FIELD HOCKEY",
+        "Y",
+        "PORT & COMPANY"
+      ],
+      "graphics": [
+        "large block YALE lettering",
+        "outlined Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "field hockey",
+      "family_role": null,
+      "brand": "PORT & COMPANY",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-sports-creqneck-field-hockey",
+      "image_path": "data/products/yale-sports-creqneck-field-hockey.jpg",
+      "search_text": "Heather Grey Yale Field Hockey Crewneck | Heather grey long-sleeve crewneck sweatshirt with a centered navy graphic on the front. The design reads “YALE” above “FIELD HOCKEY,” with a large outlined navy “Y” beneath; a small “PORT & COMPANY” label is visible inside the collar. | crewneck | heather grey | navy | white | YALE | FIELD HOCKEY | Y | PORT & COMPANY | large block YALE lettering | outlined Yale Y | full-front | screen print | field hockey | PORT & COMPANY | athletic | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Baseball Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a large navy “YALE” across the upper front, navy “BASEBALL” beneath it, and a navy outlined block “Y” below. The design is centered on the front; a small white neck label with blue text is also visible.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy blue",
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL",
+        "Y",
+        "SPORT-TEK"
+      ],
+      "graphics": [
+        "block letter Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "baseball",
+      "family_role": null,
+      "brand": "Sport-Tek",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "classic",
+        "collegiate",
+        "minimal"
+      ],
+      "product_id": "yale-sports-crewneck-baseball",
+      "image_path": "data/products/yale-sports-crewneck-baseball.jpg",
+      "search_text": "Heather Grey Yale Baseball Crewneck | Heather grey long-sleeve crewneck sweatshirt with a large navy “YALE” across the upper front, navy “BASEBALL” beneath it, and a navy outlined block “Y” below. The design is centered on the front; a small white neck label with blue text is also visible. | crewneck | heather grey | navy blue | white | YALE | BASEBALL | Y | SPORT-TEK | block letter Y | full-front | screen print | baseball | Sport-Tek | athletic | classic | collegiate | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Golf Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a centered navy full-front design. The design reads “YALE” in large block letters, “GOLF” beneath it, and a large outlined “Y” below; a small Port & Company neck label is visible.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "GOLF",
+        "Y"
+      ],
+      "graphics": [
+        "large block YALE lettering",
+        "outlined Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "golf",
+      "family_role": null,
+      "brand": "Port & Company",
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-sports-crewneck-golf",
+      "image_path": "data/products/yale-sports-crewneck-golf.jpg",
+      "search_text": "Heather Grey Yale Golf Crewneck | Heather grey long-sleeve crewneck sweatshirt with a centered navy full-front design. The design reads “YALE” in large block letters, “GOLF” beneath it, and a large outlined “Y” below; a small Port & Company neck label is visible. | crewneck | heather grey | navy | white | YALE | GOLF | Y | large block YALE lettering | outlined Y | full-front | screen print | golf | Port & Company | athletic | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Volleyball Crewneck",
+      "description": "Heather grey long-sleeve crewneck sweatshirt with a centered navy athletic design on the front. The design reads “YALE” in large block letters, “VOLLEYBALL” beneath it, and a separate outlined Yale “Y” below; ribbed collar, cuffs, and waistband are visible.",
+      "garment_type": "crewneck",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy blue"
+      ],
+      "printed_text": [
+        "YALE",
+        "VOLLEYBALL",
+        "Y"
+      ],
+      "graphics": [
+        "Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "volleyball",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "college",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-sports-crewneck-volleyball",
+      "image_path": "data/products/yale-sports-crewneck-volleyball.jpg",
+      "search_text": "Heather Grey Yale Volleyball Crewneck | Heather grey long-sleeve crewneck sweatshirt with a centered navy athletic design on the front. The design reads “YALE” in large block letters, “VOLLEYBALL” beneath it, and a separate outlined Yale “Y” below; ribbed collar, cuffs, and waistband are visible. | crewneck | heather grey | navy blue | YALE | VOLLEYBALL | Y | Yale Y | full-front | screen print | volleyball | athletic | college | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Grey Yale Baseball Hoodie",
+      "description": "Heather grey pullover hoodie with a navy blue front graphic. The design reads “YALE” above “BASEBALL,” with a large outlined Yale “Y” beneath, centered on the chest; the hoodie also has a front kangaroo pocket and matching grey drawstrings.",
+      "garment_type": "hoodie",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy blue"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL"
+      ],
+      "graphics": [
+        "outlined Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "baseball",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "bold"
+      ],
+      "product_id": "yale-sports-hoodie-baseball",
+      "image_path": "data/products/yale-sports-hoodie-baseball.jpg",
+      "search_text": "Grey Yale Baseball Hoodie | Heather grey pullover hoodie with a navy blue front graphic. The design reads “YALE” above “BASEBALL,” with a large outlined Yale “Y” beneath, centered on the chest; the hoodie also has a front kangaroo pocket and matching grey drawstrings. | hoodie | heather grey | navy blue | YALE | BASEBALL | outlined Yale Y | full-front | screen print | baseball | athletic | collegiate | minimal | bold",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Diving Hoodie",
+      "description": "A heather grey pullover hoodie with a navy collegiate-style front design. The design places large “YALE” lettering across the upper chest, “DIVING” beneath it, and a large stylized Yale Y below; the hoodie also has a front kangaroo pocket and matching grey drawstrings.",
+      "garment_type": "hoodie",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "DIVING"
+      ],
+      "graphics": [
+        "stylized Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "diving",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal"
+      ],
+      "product_id": "yale-sports-hoodie-diving",
+      "image_path": "data/products/yale-sports-hoodie-diving.jpg",
+      "search_text": "Heather Grey Yale Diving Hoodie | A heather grey pullover hoodie with a navy collegiate-style front design. The design places large “YALE” lettering across the upper chest, “DIVING” beneath it, and a large stylized Yale Y below; the hoodie also has a front kangaroo pocket and matching grey drawstrings. | hoodie | heather grey | navy | YALE | DIVING | stylized Yale Y | full-front | screen print | diving | athletic | collegiate | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Golf Hoodie",
+      "description": "Heather grey pullover hoodie with a navy collegiate-style “YALE” wordmark across the upper front and “GOLF” beneath it. A navy stylized Yale Y emblem with crossed golf clubs appears below the text; the hoodie has a front kangaroo pocket and matching grey drawstrings.",
+      "garment_type": "hoodie",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "GOLF"
+      ],
+      "graphics": [
+        "stylized Yale Y emblem",
+        "crossed golf clubs"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "golf",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-sports-hoodie-golf",
+      "image_path": "data/products/yale-sports-hoodie-golf.jpg",
+      "search_text": "Heather Grey Yale Golf Hoodie | Heather grey pullover hoodie with a navy collegiate-style “YALE” wordmark across the upper front and “GOLF” beneath it. A navy stylized Yale Y emblem with crossed golf clubs appears below the text; the hoodie has a front kangaroo pocket and matching grey drawstrings. | hoodie | heather grey | navy | YALE | GOLF | stylized Yale Y emblem | crossed golf clubs | full-front | screen print | golf | athletic | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Hockey Hoodie",
+      "description": "A heather grey pullover hoodie with a large navy collegiate-style “YALE” graphic across the upper front, “HOCKEY” beneath it, and a large outlined navy “Y” below. It has a front kangaroo pocket, matching grey drawstrings, and small white printed label text inside the hood area.",
+      "garment_type": "hoodie",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "HOCKEY"
+      ],
+      "graphics": [
+        "large outlined Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "hockey",
+      "family_role": null,
+      "brand": "Campus Colors",
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "yale-sports-hoodie-hockey",
+      "image_path": "data/products/yale-sports-hoodie-hockey.jpg",
+      "search_text": "Heather Grey Yale Hockey Hoodie | A heather grey pullover hoodie with a large navy collegiate-style “YALE” graphic across the upper front, “HOCKEY” beneath it, and a large outlined navy “Y” below. It has a front kangaroo pocket, matching grey drawstrings, and small white printed label text inside the hood area. | hoodie | heather grey | navy | white | YALE | HOCKEY | large outlined Yale Y | full-front | screen print | hockey | Campus Colors | athletic | collegiate | classic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Soccer Hoodie",
+      "description": "Heather grey pullover hoodie with a navy collegiate-style “YALE” above “SOCCER” centered on the front, with a large outlined Yale Y graphic beneath the text. It has a front kangaroo pocket, drawstring hood, and long sleeves.",
+      "garment_type": "hoodie",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "SOCCER"
+      ],
+      "graphics": [
+        "outlined Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "soccer",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-sports-hoodie-soccer",
+      "image_path": "data/products/yale-sports-hoodie-soccer.jpg",
+      "search_text": "Heather Grey Yale Soccer Hoodie | Heather grey pullover hoodie with a navy collegiate-style “YALE” above “SOCCER” centered on the front, with a large outlined Yale Y graphic beneath the text. It has a front kangaroo pocket, drawstring hood, and long sleeves. | hoodie | heather grey | navy | YALE | SOCCER | outlined Yale Y | full-front | screen print | soccer | athletic | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Grey Yale Swimming Hoodie",
+      "description": "Heather grey pullover hoodie with a navy collegiate-style “YALE” above “SWIMMING” printed across the upper front. A navy outlined Yale Y graphic appears centered below the wording, partly overlapped by the drawstrings; the hoodie also has a front kangaroo pocket.",
+      "garment_type": "hoodie",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "SWIMMING"
+      ],
+      "graphics": [
+        "stylized Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "swimming",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "yale-sports-hoodie-swimming",
+      "image_path": "data/products/yale-sports-hoodie-swimming.jpg",
+      "search_text": "Grey Yale Swimming Hoodie | Heather grey pullover hoodie with a navy collegiate-style “YALE” above “SWIMMING” printed across the upper front. A navy outlined Yale Y graphic appears centered below the wording, partly overlapped by the drawstrings; the hoodie also has a front kangaroo pocket. | hoodie | heather grey | navy | YALE | SWIMMING | stylized Yale Y | full-front | screen print | swimming | athletic | collegiate | classic | minimal",
+      "source": "model"
+    },
+    {
+      "title": "Heather Grey Yale Tennis Hoodie",
+      "description": "A heather grey pullover hoodie with a centered dark navy front design. The design reads “YALE” above “TENNIS,” with a large navy Yale-style “Y” emblem beneath; the hoodie also has a front kangaroo pocket and matching grey drawstrings.",
+      "garment_type": "hoodie",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "TENNIS"
+      ],
+      "graphics": [
+        "large Yale-style Y emblem"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "tennis",
+      "family_role": null,
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "classic"
+      ],
+      "product_id": "yale-sports-hoodie-tennis",
+      "image_path": "data/products/yale-sports-hoodie-tennis.jpg",
+      "search_text": "Heather Grey Yale Tennis Hoodie | A heather grey pullover hoodie with a centered dark navy front design. The design reads “YALE” above “TENNIS,” with a large navy Yale-style “Y” emblem beneath; the hoodie also has a front kangaroo pocket and matching grey drawstrings. | hoodie | heather grey | dark navy | YALE | TENNIS | large Yale-style Y emblem | full-front | screen print | tennis | athletic | collegiate | minimal | classic",
+      "source": "model"
+    },
+    {
+      "title": "Grey Yale Field Hockey T-Shirt",
+      "description": "Heather grey short-sleeve T-shirt with a centered dark navy front graphic. The design reads “YALE” above “FIELD HOCKEY,” with a large outlined Yale “Y” beneath.",
+      "garment_type": "t-shirt",
+      "primary_color": "heather grey",
+      "secondary_colors": [
+        "dark navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "FIELD HOCKEY"
+      ],
+      "graphics": [
+        "large outlined Yale Y"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": null,
+      "sport": "field hockey",
+      "family_role": null,
+      "brand": null,
+      "has_hood": false,
+      "has_zipper": false,
+      "sleeve_length": "short",
+      "style_keywords": [
+        "athletic",
+        "collegiate",
+        "minimal",
+        "bold"
+      ],
+      "product_id": "yale-sports-t-shirt-field-hockey",
+      "image_path": "data/products/yale-sports-t-shirt-field-hockey.jpg",
+      "search_text": "Grey Yale Field Hockey T-Shirt | Heather grey short-sleeve T-shirt with a centered dark navy front graphic. The design reads “YALE” above “FIELD HOCKEY,” with a large outlined Yale “Y” beneath. | t-shirt | heather grey | dark navy | YALE | FIELD HOCKEY | large outlined Yale Y | full-front | screen print | field hockey | athletic | collegiate | minimal | bold",
+      "source": "model"
+    },
+    {
+      "title": "Navy Yale Uncle Hoodie",
+      "description": "A navy pullover hoodie with a white full-front collegiate graphic. The design features large white “YALE” lettering between two horizontal white lines, with smaller “UNIVERSITY” text overlaid near the lower right of the lettering and “UNCLE” beneath it; the hoodie also has a front kangaroo pocket and matching navy drawstrings.",
+      "garment_type": "hoodie",
+      "primary_color": "navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "UNCLE"
+      ],
+      "graphics": [
+        "large collegiate Yale wordmark with horizontal lines"
+      ],
+      "graphic_placement": "full-front",
+      "print_style": "screen print",
+      "affiliation": "Yale University",
+      "sport": null,
+      "family_role": "Uncle",
+      "brand": null,
+      "has_hood": true,
+      "has_zipper": false,
+      "sleeve_length": "long",
+      "style_keywords": [
+        "collegiate",
+        "family-themed",
+        "classic",
+        "minimal"
+      ],
+      "product_id": "yale-uncle-hoodie",
+      "image_path": "data/products/yale-uncle-hoodie.jpg",
+      "search_text": "Navy Yale Uncle Hoodie | A navy pullover hoodie with a white full-front collegiate graphic. The design features large white “YALE” lettering between two horizontal white lines, with smaller “UNIVERSITY” text overlaid near the lower right of the lettering and “UNCLE” beneath it; the hoodie also has a front kangaroo pocket and matching navy drawstrings. | hoodie | navy | white | YALE | UNIVERSITY | UNCLE | large collegiate Yale wordmark with horizontal lines | full-front | screen print | Yale University | Uncle | collegiate | family-themed | classic | minimal",
+      "source": "model"
+    }
+  ]
+}

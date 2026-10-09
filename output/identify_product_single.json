@@ -1,0 +1,67 @@
+{
+  "image_path": "data/test_images/image_03_true.jpeg",
+  "product_present": true,
+  "product_id": "dry-zone-long-sleeve",
+  "product_title": "Navy Yale Bulldogs Long-Sleeve Shirt",
+  "confidence": 0.98,
+  "alternatives": [],
+  "evidence": [
+    "The garment is a navy long-sleeve shirt.",
+    "The visible front print reads “YALE” with “BULLDOGS” underneath in white block lettering.",
+    "The layout and solid filled wordmark match Candidate 1; the outlined lettering, separate Y emblem, diagonal stripes, and Under Armour logo from Candidate 2 are not visible."
+  ],
+  "reasoning": "The query garment matches Candidate 1 in garment type, navy color, and the distinctive YALE/BULLDOGS front print.",
+  "candidates_checked": [
+    {
+      "product_id": "dry-zone-long-sleeve",
+      "title": "Navy Yale Bulldogs Long-Sleeve Shirt",
+      "retrieval_score": 20.78
+    },
+    {
+      "product_id": "ua-mens-tech-l-s-2-0",
+      "title": "Navy Yale Bulldogs Under Armour Tech Long-Sleeve Shirt",
+      "retrieval_score": 14.74
+    },
+    {
+      "product_id": "t-felt-y-heavyweight",
+      "title": "Cream Yale Y Heavyweight T-Shirt",
+      "retrieval_score": 12.73
+    },
+    {
+      "product_id": "crew-left-chest-hoodie",
+      "title": "Navy Yale Crew Hoodie",
+      "retrieval_score": 12.45
+    },
+    {
+      "product_id": "squash-left-chest-hoodie",
+      "title": "Navy Yale Squash Hoodie",
+      "retrieval_score": 11.9
+    },
+    {
+      "product_id": "champion-reverse-weave-crewneck",
+      "title": "Heather Grey Yale Reverse Weave Crewneck",
+      "retrieval_score": 11.0
+    },
+    {
+      "product_id": "boola-boola-t-shirt",
+      "title": "Navy Boola Boola T-Shirt",
+      "retrieval_score": 10.34
+    },
+    {
+      "product_id": "basic-hoodie-big-yale",
+      "title": "Navy Yale Big-Letter Hoodie",
+      "retrieval_score": 9.92
+    },
+    {
+      "product_id": "yale-grandpa-crewneck",
+      "title": "Heather Grey Yale Grandpa Crewneck",
+      "retrieval_score": 9.91
+    },
+    {
+      "product_id": "school-of-nursing-crest-t-shirt",
+      "title": "Navy Yale School of Nursing Crest T-Shirt",
+      "retrieval_score": 9.6
+    }
+  ],
+  "error": null
+}

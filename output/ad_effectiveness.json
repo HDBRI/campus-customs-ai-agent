@@ -1,0 +1,209 @@
+[
+  {
+    "video_path": "data/videos/ad_humble.mp4",
+    "profile_path": "profiles/profile_student.json",
+    "customer_name": "Jordan Rivera",
+    "overall_score": 57,
+    "verdict": "mixed",
+    "purchase_likelihood": 0.18,
+    "dimensions": [
+      {
+        "name": "attention",
+        "score": 8,
+        "rationale": "The 0.5s extreme close-up, confrontational pose, concrete-overpass setting, and rapid music-video-style cutting create a strong TikTok/Reels stopping point for Jordan’s short attention span and interest in hip-hop and current visual culture. The measured audio is consistently present and bass-heavy, which likely supports the impact, though the song or lyrics cannot be verified from measurements."
+      },
+      {
+        "name": "profile_relevance",
+        "score": 7,
+        "rationale": "The gritty streetwear framing at 0.5–5.0s and the group styling at 8.6s fit Jordan’s preference for urban, confident apparel and their value of feeling part of a group. It shows Yale identity broadly, but never connects specifically to Saybrook, student life, The Game, intramural culture, or Jordan’s desire for gear they can wear to college events."
+      },
+      {
+        "name": "product_appeal",
+        "score": 8,
+        "rationale": "The navy Big-Letter Yale hoodie shown prominently at 0.5s, 5.0s, and 8.6s matches Jordan’s preferred hoodie category and navy color, oversized streetwear taste, winter wishlist, and dislike of loud graphics. The group also shows navy/black tops, but the ad does not establish the hoodie’s fit, heavyweight construction, price, or whether it is the Champion Reverse Weave version—important gaps for Jordan’s tight budget."
+      },
+      {
+        "name": "brand_clarity",
+        "score": 2,
+        "rationale": "Jordan can clearly recognize Yale apparel from the large YALE wordmarks in frames 0, 5, and 8.6s, but Campus Customs is never named, shown, linked, or given a shopping destination, directly triggering Jordan’s stated turn-off of not knowing where to buy."
+      },
+      {
+        "name": "persuasion",
+        "score": 1,
+        "rationale": "There is no call to action, price, sale, student discount, pickup/delivery information, product link, or urgency anywhere in the 8.6-second sequence. For Jordan, who waits for sales and needs a reason to act now, the dramatic final group pose at 8.6s creates identity appeal but almost no path to purchase."
+      },
+      {
+        "name": "tone_fit",
+        "score": 8,
+        "rationale": "The intense, confident, student-group presentation under the overpass at 3.2–8.6s is much closer to Jordan’s preferred funny/confident, non-corporate streetwear tone than preppy or country-club marketing. It earns an 8 rather than a 9–10 because the ad is dramatic rather than humorous and the likely Kendrick/HUMBLE.-era reference is only medium-confidence; the audio’s exact song and lyrics cannot be confirmed."
+      }
+    ],
+    "products_featured": [
+      "basic-hoodie-big-yale"
+    ],
+    "possible_products": [
+      "champion-reverse-weave-hoodie-1"
+    ],
+    "audio": {
+      "has_audio": true,
+      "mean_loudness_dbfs": -10.7,
+      "peak_loudness_dbfs": 0.0,
+      "silence_ratio": 0.0,
+      "tempo_bpm": 152.0,
+      "tempo_strength": 0.15,
+      "bass_energy_ratio": 0.86,
+      "summary": "Audio is present through most of the ad (mean -11 dBFS, 0% near-silent), with a weak or irregular beat around 152 BPM (could be half or double time), and heavy bass (86% of energy below 150 Hz). Measurements only: lyrics, voiceover and the song itself are not identified."
+    },
+    "judge_runs": 3,
+    "overall_score_range": [
+      57,
+      57
+    ],
+    "resonates_with": [
+      "Hip-hop and rap interest: the confrontational music-video-style close-ups, bass-heavy soundtrack, and likely HUMBLE.-era visual reference fit Jordan’s cultural references, although the reference is not certain.",
+      "Streetwear and oversized-fit preference: the navy hoodie and gritty overpass setting in frames 0.5–5.0s present Yale apparel in a style Jordan is more likely to wear than preppy campus imagery.",
+      "Navy/black color preference and hoodie wishlist: the lead performer’s navy Yale hoodie is the clearest product throughout the ad.",
+      "Group belonging and matching-gear occasions: the expanding group, especially the final composition at 8.6s, supports Jordan’s desire to feel part of a college community and shop when friends buy matching gear.",
+      "Yale identity: multiple Yale wordmarks make school affiliation immediately legible for a sophomore who wants to rep Yale."
+    ],
+    "falls_flat_on": [
+      "Campus Customs attribution: no frame identifies the retailer, despite Jordan’s concern about knowing where to buy.",
+      "Price sensitivity: no price, sale, student discount, or value claim addresses Jordan’s $25–$60 budget and habit of waiting for promotions.",
+      "Saybrook relevance: the apparel is Yale-branded but not Saybrook-branded, missing Jordan’s specific wishlist and college-event use case.",
+      "Convenient online action: there is no phone-friendly URL, shop button, QR code, fast pickup, or delivery promise for Jordan’s online-first shopping behavior.",
+      "Product confidence: the ad does not show a full product view, fit details, heavyweight construction, sizing, or clarify whether the garment is the basic Yale hoodie or Champion Reverse Weave.",
+      "Humor and student authenticity: the presentation feels polished and cinematic but offers no joke, student voice, or clearly student-made context to make Jordan share it in a group chat."
+    ],
+    "key_moments": [
+      {
+        "timestamp_s": 0.5,
+        "note": "The unusual overpass backdrop, tight direct-to-camera pose, and visible navy YALE hoodie are a strong attention and streetwear hook for Jordan, but the crop hides most of the garment and provides no product or retailer information."
+      },
+      {
+        "timestamp_s": 5.0,
+        "note": "The wider lineup makes the apparel feel communal and supports Jordan’s group-belonging and matching-gear motivations; multiple Yale tops are visible, though details, fit, and prices remain unclear."
+      },
+      {
+        "timestamp_s": 8.6,
+        "note": "The large final group reinforces Yale identity and could motivate The Game or college-event shopping, but it ends without Campus Customs, a URL, an offer, or a direct instruction to shop."
+      }
+    ],
+    "recommendations": [
+      "Add a 1-second opening or closing overlay reading “Campus Customs — Yale gear,” followed by a tappable “Shop the Yale hoodie” CTA and a mobile URL or QR code; keep it on screen long enough to read.",
+      "Show the actual hoodie full-frame in a quick front/back fit shot, label it clearly as “Navy Yale Big-Letter Hoodie” or “Champion Reverse Weave,” and include sizes and heavyweight-fleece information.",
+      "Add a concrete student offer such as “Yale students: 15% off today” or a price under Jordan’s $60 ceiling, with an end date or limited-stock message to create urgency.",
+      "Insert Saybrook-specific merchandise or a brief text line such as “Saybrook gear for college events,” then show a second colorway or understated chest logo that fits Jordan’s minimal-logo preference.",
+      "Use a student creator or a quick humorous line about The Game, Saybrook events, or friends matching; preserve the overpass/group energy while making the ad feel student-made rather than merely cinematic.",
+      "End with “Order online — fast campus pickup or delivery” and show the phone checkout/pickup flow, directly addressing Jordan’s online-first habits."
+    ],
+    "reasoning": "This is a strong identity-and-style ad but a weak retail ad for Jordan. The hoodie, navy palette, gritty presentation, and group staging fit their streetwear taste, Yale connection, hip-hop interests, and desire for belonging; however, the absence of Campus Customs, price/discount, Saybrook relevance, and a purchase path sharply limits conversion. The estimated 0.18 probability reflects meaningful product interest without the information Jordan needs to act.",
+    "confidence": 0.94,
+    "limitations": [
+      "Judged from 10 sampled frames, not continuous video.",
+      "Soundtrack judged from measured features only (loudness, tempo, bass); lyrics, voiceover and the song itself could not be heard, because the model endpoint accepts only text and images."
+    ]
+  },
+  {
+    "video_path": "data/videos/ad_humble.mp4",
+    "profile_path": "profiles/profile_parent.json",
+    "customer_name": "Maria Rivera",
+    "overall_score": 40,
+    "verdict": "ineffective",
+    "purchase_likelihood": 0.08,
+    "dimensions": [
+      {
+        "name": "attention",
+        "score": 7,
+        "rationale": "The intense close-up at 0.5s, rapid cuts, unusual overpass setting, and prominent navy YALE hoodie would likely stop Maria in an Instagram or Facebook feed. However, the confrontational music-video presentation may hold her less than a warm family-oriented opening, especially since she watches without sound."
+      },
+      {
+        "name": "profile_relevance",
+        "score": 5,
+        "rationale": "The repeated Yale identity at 0.5s, 5.0s, and 8.6s connects with Maria’s pride as Jordan’s parent and her interest in education and her child’s achievement. The ad shows a generalized streetwear collective rather than a parent, Saybrook-family, Family Weekend, or gift context, so it only partially reflects her world."
+      },
+      {
+        "name": "product_appeal",
+        "score": 6,
+        "rationale": "The navy Yale Big-Letter Hoodie shown prominently at 0.5s and 5.0s fits Maria’s navy preference and her wishlist for a Yale Mom crewneck, while the quality of the possible Champion Reverse Weave version could justify her $40–$100 pride-item budget. Yet it is a hoodie rather than her preferred crewneck or quarter-zip, has no visible Mom/family-pride design, and gives no information about fit or cotton quality."
+      },
+      {
+        "name": "brand_clarity",
+        "score": 2,
+        "rationale": "Maria can clearly recognize Yale apparel in the lead performer’s hoodie and the final group at 8.6s, but Campus Customs is never named, shown, or linked. She therefore has little basis for knowing where to buy it, a major problem given her online shopping habits."
+      },
+      {
+        "name": "persuasion",
+        "score": 1,
+        "rationale": "There is no offer, price, shipping time, sizing information, return reassurance, or call to action at any point, and the 8.6s group ending does not direct Maria to shop. This directly misses her stated decision factors and gives no reason to act for Family Weekend, The Game, or gifts."
+      },
+      {
+        "name": "tone_fit",
+        "score": 3,
+        "rationale": "The polished group staging at 8.6s communicates collective Yale pride, but the intense, bass-heavy, streetwear-oriented style under the overpass and confrontational posing at 0.5s and 5.0s feel aimed at teenagers rather than Maria’s preferred warm, proud, straightforward family tone. The measured audio supports a loud, bass-heavy presentation, but lyrics or any song reference cannot be confirmed; even if the likely Kendrick-era visual reference appeals to some music fans, it is not a stated Maria interest."
+      }
+    ],
+    "products_featured": [
+      "basic-hoodie-big-yale"
+    ],
+    "possible_products": [
+      "champion-reverse-weave-hoodie-1"
+    ],
+    "audio": {
+      "has_audio": true,
+      "mean_loudness_dbfs": -10.7,
+      "peak_loudness_dbfs": 0.0,
+      "silence_ratio": 0.0,
+      "tempo_bpm": 152.0,
+      "tempo_strength": 0.15,
+      "bass_energy_ratio": 0.86,
+      "summary": "Audio is present through most of the ad (mean -11 dBFS, 0% near-silent), with a weak or irregular beat around 152 BPM (could be half or double time), and heavy bass (86% of energy below 150 Hz). Measurements only: lyrics, voiceover and the song itself are not identified."
+    },
+    "judge_runs": 3,
+    "overall_score_range": [
+      37,
+      40
+    ],
+    "resonates_with": [
+      "Yale parent pride and Jordan’s Yale connection through the repeated YALE wordmarks",
+      "Maria’s preference for navy apparel through the lead performer’s navy hoodie",
+      "Her interest in classic Yale identity at a glance, especially the recognizable collegiate branding",
+      "A polished short video format under 30 seconds, despite the mismatch in tone"
+    ],
+    "falls_flat_on": [
+      "No Campus Customs name, store, website, or shopping destination",
+      "No price, shipping estimate, sizing, or easy-returns information",
+      "No Yale Mom, Grandma, or other family-pride designs relevant to her wishlist and gifting plans",
+      "No warm parent/family context tied to Family Weekend, holidays, The Game, or commencement",
+      "Streetwear-heavy, dramatic presentation conflicts with her dislike of ads aimed at teenagers",
+      "No captions or readable text beyond YALE, which matters because she watches without sound"
+    ],
+    "key_moments": [
+      {
+        "timestamp_s": 0.5,
+        "note": "The close-up and navy large-letter YALE hoodie quickly establish Yale pride and may catch Maria’s eye, but the intense expression and overpass setting feel less like a parent-focused shopping message."
+      },
+      {
+        "timestamp_s": 5.0,
+        "note": "The wider view makes several Yale tops visible, reinforcing the collegiate identity and navy/black palette Maria might wear, but motion and distance prevent her from judging garment quality, fit, or specific products."
+      },
+      {
+        "timestamp_s": 8.6,
+        "note": "The large group creates a strong collective Yale image that could resonate with her pride in Jordan, yet the ending still provides no Campus Customs attribution, offer, or next step."
+      }
+    ],
+    "recommendations": [
+      "Replace the first 1–2 seconds with a warm, captioned parent-oriented hook such as “Proud Yale Mom—ready for Family Weekend?” while still showing the navy garment clearly.",
+      "Add a clean product card naming the item and Campus Customs, with a visible website/shop button, price, available sizes, estimated shipping, and easy-returns message.",
+      "Show a Yale Mom crewneck or quarter-zip in navy, heather grey, or white alongside the hoodie, plus family gift options labeled Grandma and Grandpa.",
+      "Re-shoot or intercut the overpass footage with welcoming campus and family moments—such as a parent wearing the garment at Family Weekend or The Game—to move the tone from teen streetwear to warm, proud, adult collegiate apparel.",
+      "Use persistent captions and an end card for silent viewing: “Shop Yale family apparel at Campus Customs,” followed by a concrete deadline or offer relevant to an upcoming visit or holiday.",
+      "Clarify whether the hoodie is the basic Big-Letter Hoodie or the Champion Reverse Weave version, and show a close-up of fabric, crest/lettering, fit, and garment details."
+    ],
+    "reasoning": "This ad has strong Yale recognition, cinematic production, and a visually arresting opening, but it sells a broad streetwear mood rather than Campus Customs to Maria specifically. Her likely interest in a navy Yale pride item is undermined by the lack of Mom/family products and all practical purchase information; most importantly, she cannot identify the retailer or act after viewing.",
+    "confidence": 0.94,
+    "limitations": [
+      "Judged from 10 sampled frames, not continuous video.",
+      "Soundtrack judged from measured features only (loudness, tempo, bass); lyrics, voiceover and the song itself could not be heard, because the model endpoint accepts only text and images."
+    ]
+  }
+]
